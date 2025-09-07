@@ -6,7 +6,7 @@ Site automatically redirects to malicious Cloudflare verification page:
 
 And prompts user to enter a malicious powershell command:
 <img width="2230" height="852" alt="image" src="https://github.com/user-attachments/assets/8f276103-4cdf-49a6-8ade-291727ded549" />
-(copied to user's clipboard, posted in address bar)
+(copied to user's clipboard, posted in address bar to present evidence)
 
 Video of initial encounter:
 
