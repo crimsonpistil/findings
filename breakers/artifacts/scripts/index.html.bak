@@ -156,7 +156,7 @@ var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_valid
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.8.33" id="bwg_frontend-js"></script>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuM0VpqJo4Ae6N01ZivNRe2ubxJ0jDKF4&amp;ver=6.8.2" id="googlemaps-js-js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=***************************************&amp;ver=6.8.2" id="googlemaps-js-js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sweetalert2@9?ver=6.8.2" id="sweet-js-js"></script>
 <script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/vendor/richMarker/richmarker.min.js?ver=6.8.2" id="richMarker-js"></script>
 <script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/vendor/waitMe/waitMe.min.js?ver=6.8.2" id="waitme-js-js"></script>
