@@ -1,7 +1,7 @@
 
 
 ## IR Journal
-This repos serves as a collection of my research, findings, and notes from various security investigations and incident response activities.  
+This repo serves as a collection of my research, findings, and notes from various security investigations and incident response activities.  
 It serves as a central place to organize artifacts, reports, and indicators of compromise (IOCs).
 
 ## Contents
