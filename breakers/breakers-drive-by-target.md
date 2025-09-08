@@ -1,5 +1,5 @@
 ## breakersfwb.com Drive-By Target Analysis
-*7 Sept 2025, R. Halim*
+*7 Sept 2025, R. Halim & K.Tonkin*
 
 This document outlines a more detailed analysis into the JavaScript injection shown on `https://www.breakersfwb.com`.
 
