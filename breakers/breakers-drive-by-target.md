@@ -152,7 +152,7 @@ A [WordPress theme](https://developer.wordpress.org/themes/getting-started/what-
 website to customize the design of their website. In essence, it controls the styles and layout of a website, which can
 also include adding additional HTML.
 
-Based on some earlier analysis (source where?), this WordPress site is using a custom theme, which isn't uncommon. What
+Based on some earlier analysi, this WordPress site is using a custom theme, which isn't uncommon. What
 may have happened is that the theme was updated to include the malicious `<script>` tag in every page, which often results
 from a change in the theme's `theme.php` file to do so. This would be in conjunction with either the first hypothesis
 (in which an attacker would need to exploit a plugin to gain access to the backend), or with the third hypothesis (in
