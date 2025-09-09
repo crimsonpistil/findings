@@ -1,5 +1,5 @@
 ## Incident Response Report – Breakers FWB Website Compromise
-*7 Sept 2025, K. Tonkin & R. Halim*
+*9 Sept 2025, K. Tonkin & R. Halim*
 
 ## Executive Summary
 On September 5, 2025, the Breakers FWB website (```https://www.breakersfwb.com```) was found to be compromised and actively serving a ClickFix-style social engineering campaign. Malicious JavaScript was injected into the site, overlaying a fake Cloudflare “verification” page hosted on ```ncloud.icu``` via a dynamically loaded <iframe>. This page mimicked legitimate security checks but was designed to exploit users’ instinct to “fix” perceived issues—hallmarks of the ClickFix technique.
