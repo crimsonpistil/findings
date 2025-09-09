@@ -1,5 +1,5 @@
 ## breakersfwb.com Drive-By Target Analysis
-*7 Sept 2025, R. Halim & K.Tonkin*
+*7 Sept 2025, K.Tonkin & R. Halim*
 
 This document outlines a more detailed analysis into the JavaScript injection shown on `https://www.breakersfwb.com`.
 
@@ -9,23 +9,23 @@ This document outlines a more detailed analysis into the JavaScript injection sh
 
 ## Relevant Indicators of Compromise (IOCs)
 
-| Type   | Indicator                                                        |
-|--------|------------------------------------------------------------------|
-| Domain | `getfix[.]win`                                                   |
-| Domain | `ncloud[.]icu`                                                   |
-| Domain | `2no.co`                                                         |
-| IP     | `155[.]94.155.25`                                                |
-| URL    | `https://getfix[.]win/jsrepo?rnd=<random_number>&ts=<timestamp>` |
-| URL    | `https://ncloud.icu/?ref=<target_domain>`                        |
+| Type   | Indicator                                                        |  Description                          |
+|--------|------------------------------------------------------------------|---------------------------------------|
+| Domain | `getfix[.]win`                                                   | Primary ClickFix payload delivery     |
+| Domain | `ncloud[.]icu`                                                   | Fake Cloudflare overlay iframe source |
+| Domain | `2no.co`                                                         | Intermediate redirector               |
+| IP     | `155[.]94.155.25`                                                | PowerShell stager host                |
+| URL    | `https://getfix[.]win/jsrepo?rnd=<random_number>&ts=<timestamp>` | Dynamic script loader                 |
+| URL    | `https://ncloud.icu/?ref=<target_domain>`                        | Overlay splash page                   |
 
 
 ## Analysis
 
-Likely through a WordPress theme injection, it was discovered that every page had a JavaScript `<script>` tag inserted
-in the HTML body, which holds a [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE) that is executed as soon
-as the webpage loads in the victims browser. In short, a block of code is defined as a function, then immediately
-invoked without naming the function. Below are the contents of the JavaScript block, which shows the next sequence to
-load malicious JavaScript into the browser.
+The injected JavaScript on https://www.breakersfwb.com is a textbook example of the ClickFix technique: a social engineering method that exploits users’ impulse to “fix” perceived issues. This campaign weaponized trust in the Breakers website to deliver malware via a deceptive overlay.
+
+Each page on the site was modified to include a <script> block containing an Immediately Invoked Function Expression (IIFE). This function dynamically loads a second-stage script from getfix.win, using randomized query parameters to evade caching and track victim engagement.  
+
+Below are the contents of the JavaScript block, which shows the next sequence to load malicious JavaScript into the browser.
 
 ```html
 <script>
@@ -65,9 +65,7 @@ load malicious JavaScript into the browser.
 </script>
 ```
 
-As shown here, the `loadScript()` function creates a fetch request to `https://getfix[.]win/jsrepo`, which injects some
-parameters using `Math.random()` and `Date.now()`. This is possibly so that the threat actors are able to track which
-victims have contacted this domain. 
+The script fetches obfuscated JavaScript, but only if the User-Agent string indicates a Windows OS; an intentional filter to target systems vulnerable to PowerShell exploitation. The `loadScript()` function creates a fetch request to `https://getfix[.]win/jsrepo`, which injects parameters using `Math.random()`. This selective targeting is a hallmark of ClickFix: it avoids detection by automated scanners and focuses on real users who are likely to follow instructions.
 
 However, this domain only selectively returns JavaScript code, based on the User-Agent string sent to the URL. Namely,
 JavaScript is only returned when the User-Agent indicates the OS is running Windows, which can be tested by utilizing
@@ -89,13 +87,7 @@ code, a full copy of which can be found in [artifacts/scripts/getwin-js-deobfusc
 ![Figure 3. Deobfuscator Tool](./artifacts/screenshots/breakers-driveby-3.png)
 *Figure 3. Deobfuscator Tool*
 
-This JavaScript code injects an `<iframe>` into the DOM `<body>` (the source of this iframe is `https://ncloud[.]icu?ref=www.breakersfwb.com`),
-which loads a fake Cloudflare verification page that overlays on top of the Breakers website. This technique is quite
-sophisticated, as it utilizes the (presumed) legitimate trust of the Breakers website without an obvious redirect to a
-malicious domain. (Notice how the URL in the browser stays at `breakersfwb.com` instead of changing). The "legitimacy"
-of this fake Cloudflare verification page is furthered because of the `ref` URL parameter that gets passed by the
-injected JavaScript; it takes the current domain you are visiting to add to the splash page, and can be observed if you
-directly navigate to the underlying domain in the iframe.
+Once the obfuscated script is injected, it creates an <iframe> pointing to ncloud.icu, passing the current domain (breakersfwb.com) as a referrer. This iframe overlays a fake Cloudflare “verification” page—visually convincing and designed to appear legitimate. The browser URL remains unchanged, preserving trust, and the overlay includes the victim’s domain to reinforce authenticity. This is a core ClickFix tactic: simulate a familiar security prompt, then guide the user into executing a malicious command.
 
 ![Figure 4. Fake Cloudflare Verification. Note the inclusion of "www.breakersfwb.com"](./artifacts/screenshots/breakers-driveby-4.png)
 *Figure 4. Fake Cloudflare Verification. Note the inclusion of "www.breakersfwb.com"*
